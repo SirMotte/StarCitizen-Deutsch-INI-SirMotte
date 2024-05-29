@@ -1,5 +1,5 @@
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) <!-- [![Static Badge](https://img.shields.io/badge/VORBEREITUNG-%23f3ac04?style=for-the-badge&label=3.23.0%20)](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases)--> [![Static Badge](https://img.shields.io/badge/Preview%20Builds-brightgreen?style=for-the-badge&color=232323)](#)[![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#) <br/>
-[![Static Badge](https://img.shields.io/badge/Work%20In%20Process-%23f3ac04?style=for-the-badge&labelColor=232323&label=ini)](#) [![Static Badge](https://img.shields.io/badge/%F0%9F%92%96-%23fff?style=for-the-badge&labelColor=232323&label=Star%20Citizen)](https://robertsspaceindustries.com/) ![Discord](https://img.shields.io/discord/1163823228637163581?style=for-the-badge&logo=discord&logoColor=fff&label=team&labelColor=232323&color=fff) [![Static Badge](https://img.shields.io/badge/Downloads-232323?style=for-the-badge&logoColor=232323)![Static Badge](https://img.shields.io/badge/19,5k-%234cc71e?style=for-the-badge&labelColor=232323%20)](https://hanadigital.github.io/grev/?user=rjcncpt&repo=StarCitizen-Deutsch-INI)
+[![Static Badge](https://img.shields.io/badge/Work%20In%20Process-%23f3ac04?style=for-the-badge&labelColor=232323&label=ini)](#) [![Static Badge](https://img.shields.io/badge/%F0%9F%92%96-%23fff?style=for-the-badge&labelColor=232323&label=Star%20Citizen)](https://robertsspaceindustries.com/) ![Discord](https://img.shields.io/discord/1163823228637163581?style=for-the-badge&logo=discord&logoColor=fff&label=team&labelColor=232323&color=fff) [![Static Badge](https://img.shields.io/badge/Downloads-232323?style=for-the-badge&logoColor=232323)![Static Badge](https://img.shields.io/badge/23k-%234cc71e?style=for-the-badge&labelColor=232323%20)](https://hanadigital.github.io/grev/?user=rjcncpt&repo=StarCitizen-Deutsch-INI)
 
 <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=live&expanded=true">![Static Badge](https://img.shields.io/badge/Download%20LIVE-brightgreen?style=for-the-badge&color=232323)![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=semver&filter=*LIVE*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a> <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=ptu&expanded=true">![Static Badge](https://img.shields.io/badge/Download%20PTU-brightgreen?style=for-the-badge&color=232323)![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=date&filter=*PTU*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a>
 
@@ -11,12 +11,8 @@
 
 Hilf gern dabei, diese Übersetzung besser zu machen und eröffne [eine Diskussion](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/discussions/categories/%C3%BCbersetzungsvorschl%C3%A4ge) oder [einen Issue](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/issues/new?assignees=&labels=Fehler&projects=&template=bug_report.md&title=), schreibe uns deinen Vorschlag und werde ein Teil dieser Übersetzung!
 
-
-> [!TIP]  
-> **Wir laden dich herzlich auf unseren **[Übersetzungs Discord-Server](https://discord.gg/qUtwVCuUQ3)** ein. Werde Teil der deutschen Übersetzung und hinterlasse deinen Fingerabdruck mit deinem Übersetzungsvorschlag. Server seit 15. Mai 2023**
-
 > [!IMPORTANT]  
-> **Um @-Darstellungsfehler zu vermeiden, aktualisiere regelmäßig die Übersetzungsdatei. Mit nahezu jedem Patch kommen neue Zeilen hinzu, die dir sonst im Spiel fehlen und als @-Fehler dargestellt werden.**
+> **Um @-Darstellungsfehler zu vermeiden, aktualisiere regelmäßig die Übersetzungsdatei. Mit nahezu jedem Patch kommen neue Zeilen hinzu, die sonst im Spiel fehlen und als @-Fehler angezeigt werden.**
 
 <br/>
 
@@ -31,11 +27,15 @@ Hilf gern dabei, diese Übersetzung besser zu machen und eröffne [eine Diskussi
   <br/><br/><br/>
 
 ## Über diese Übersetzung
+
 Unser Ziel mit dieser Übersetzung ist es, die Spieltexte von Star Citizen ins Deutsche zu übertragen, um ein besseres Spielerlebnis für deutsche Spieler zu ermöglichen und die Immersion zu stärken. Wir bieten zwei Versionen unserer Sprachdatei an: eine Standardversion und eine vollständige Übersetzung. Die Standardversion sorgt dafür, dass **Eigennamen, Missionstitel und Items nicht übersetzt** werden. Dadurch bleibt das Spielen mit internationalen Spieler konsistent, und die Kompatibilität mit dem Issue Council auf der RSI-Webseite bleibt erhalten. Außerdem unterstützen wir damit Drittanbieter-Websites, Item-Datenbanken sowie Tutorials auf Plattformen wie Youtube oder in Textform.
-<br/><br/>
+
+![image](https://i.imgur.com/0sW5TPo.png)
 
 ### Wir interpretieren Missionstexte neu
-Missionstexte sind häufig durch komplexe Verzweigungen und den Gebrauch von Keys schwer verständlich. Dies führt insbesondere zu Problemen mit der korrekten Verwendung von Artikeln (der, die, das) und Präpositionen (von, bis, nach), was in holprigen Formulierungen, besonders bei Liefermissionen resultiert. Um diese Herausforderung zu bewältigen, haben wir eine Vielzahl von komplexen Missions-, Journal- und Reputationstexten analysiert und einige davon grundlegend überarbeitet.
+Missionstexte sind häufig durch komplexe Verzweigungen und den Gebrauch von Keys kompliziert aufgebaut. Dies führt insbesondere zu Problemen mit der korrekten Verwendung von Artikeln (der, die, das) und Präpositionen (von, bis, nach), was in holprigen Formulierungen, besonders bei Liefermissionen resultiert. Um diese Herausforderung zu bewältigen, haben wir eine Vielzahl von komplexen Missions-, Journal- und Reputationstexten analysiert und einige davon grundlegend überarbeitet und ein eigenständiges Layout erschaffen, um die Lesbarbeit zu vereinfachen.
+
+**Erfahre in der [Dokumentation zu unserer Übersetzung](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/docs_tools/doku/README.md) mehr darüber.**
 <br/><br/>
 
 ### Vollständige Übersetzung von Star Citizen
@@ -127,11 +127,12 @@ Evocati Builds werden von uns nicht unterstützt. Wir planen, die neuen Zeilen d
 | Knebel              | Danke an die vielen Einsender der Knebel Community - **[Discord](https://discord.com/invite/knebel)** (*Invite-Link)        |
 | NICDUS              | Danke für das Tutorial und die Vorstellung der Übersetzung - **[YouTube](https://www.youtube.com/watch?v=5xuSRI0SlbE)**     |
 | Gaming mit Handicap | Danke für das Tutorial und die Vorstellung der Übersetzung - **[YouTube](https://www.youtube.com/watch?v=hT48OxNr_cA)**     |
-| Tiicrown            | Unterstützt unsere Übersetzung - **[Twitch](https://www.twitch.tv/tiicrown)**                                               |
+| Tiicrown            | Unterstützt unsere Übersetzung im Stream - **[Twitch](https://www.twitch.tv/tiicrown)**                                     |
 | SpielerBlau         | Unterstützt unsere Übersetzung und modifiziert diese etwas auf seine Orga - **[Twitch](https://www.twitch.tv/spielerblau)** |
 | GameStar            | Erwähnt bei **[gamestar.de](https://www.gamestar.de/videos/star-citizen-das-sind-die-naechsten-schritte-auf-dem-weg-zu-version-10,130460.html)** und **[GameStar Youtube](https://www.youtube.com/watch?v=B-rOJOlDLm8)**                               |
-| FlatMoki            | Unterstützt unsere Übersetzung - **[Twitch](https://www.twitch.tv/flatmoki)**                                               |
+| FlatMoki            | Unterstützt unsere Übersetzung im Stream - **[Twitch](https://www.twitch.tv/flatmoki)**                                     |
 | vanHAYDEN           | Danke für das Tutorial und die Vorstellung der Übersetzung - **[YouTube](https://www.youtube.com/watch?v=i6g_vLioBeU)**     |
+| Atropin_            | Unterstützt unsere Übersetzung im Stream - **[Twitch](https://www.twitch.tv/atropin_)**                                     |
 
 > Wenn wir feststellen, dass unsere Übersetzungen in Streams oder Videos verwendet werden oder ein besonderer Dank angebracht ist, fügen wir dieser Liste gerne weitere Quellen hinzu. Der Neutralität wegen geschieht die Auswahl völlig zufällig und nicht auf Anfrage. Vielen Dank für all die tolle Unterstützung!
 
@@ -227,7 +228,7 @@ Salut and stay tuned!
 
 <br/><br/><br/><br/>
 -------<br/>
-**Note about lecturer**<br/>
-The entire repository is licensed under a [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. To provide the best possible quality, we commission a lecturer to proofread some of the text modules. The copyright is held by Claudia Fröhlich. You may use our global.ini file privately, but you must not identify yourself as the author of this global.ini.
+**Urheberrecht und CC-Lizenz**<br/>
+Das gesamte GitHub-Repository sowie individuelle Texte in den global.ini-Dateien, die sich erheblich in ihrer Schöpfungshöhe vom Original abheben, sind urheberrechtlich geschützt und unterliegen der freien [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz. Dies bedeutet, dass Sie die Inhalte für nicht-kommerzielle Zwecke nutzen, bearbeiten und weiterverbreiten dürfen, solange Sie die Urheberschaft angeben und die gleiche Lizenz für Ihre Weiterbearbeitungen verwenden.
 <br/><br/>
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
