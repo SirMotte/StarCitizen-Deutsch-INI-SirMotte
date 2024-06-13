@@ -5,29 +5,46 @@ Auf dieser Seite listen wir eingens entwicklete und 3rd party Tools und Web-Apps
 
 ### Inhaltsverzeichnis
 
-- **[INI File Viewer (Web-App)](#ini-file-viewer)**
+- **[INI File Viewer (Web-App)](#ini-file-viewer-web-app)**
+- **[Sprachdatei Downloader (Web-App)](#sprachdatei-downloader-web-app)**
 - **[Besseres Spectrum Dark Theme (Chrome Extension)](#besseres-spectrum-dark-theme-chrome-extension)**
+- **[Symbolic Link vom LIVE Ordner erstellen](#symbolic-link-vom-live-ordner-erstellen)**
 - **[Automatisches Übersetzungsupdate (.bat Tool)](#automatisches-übersetzungsupdate-bat)**
-- **[SC Launch Conigurator (Tool)](#sc-launch-conigurator)**
+- **[SC Launch Conigurator (Tool)](#sc-launch-configurator)**
 
 <br/><br/>
 
 ## INI File Viewer (Web-App)
-![image](https://i.imgur.com/1Pf5D0e.png)
+Eine Web-App, um bei der Suche nach fehlerhaften Texten zu unterstützen. Dabei wird die aktuelle global.ini-Datei aus dem `/live`-Verzeichnis unseres GitHub-Repositorys ausgelesen und alle Einträge untereinander dargestellt.
 
-Eine Web-App, um bei der Suche nach fehlerhaften Texten zu unterstützen. Dabei wird die aktuelle global.ini-Datei aus dem `/live`-Verzeichnis unseres GitHub-Repositorys ausgelesen und alle Einträge untereinander dargestellt.<br/>
+![image](https://i.imgur.com/IzEfJKU.png)
 
 ### Formatierung
-![image](https://i.imgur.com/Hh4yn6i.png)
 Wenn du auf die "Formatieren"-Checkbox klickst, werden alle Anfangsvariablen entfernt und alle `\n` werden durch Zeilenumbrüche ersetzt. So siehst du, wie der Text im Spiel dargestellt wird.
 
-### Suchfunktion
-Eine Suchfunktion, die es ermöglicht, den Text, den du als fehlerhaft empfindest, direkt zu suchen.
+![image](https://i.imgur.com/Hh4yn6i.png)
+
+### Filter- und Suchfunktion
+Eine Filter- und Suchfunktion, die es ermöglicht, den Text, den du als fehlerhaft empfindest, direkt zu suchen oder aus vorgegebenen Filtern direkt die Kategorie anzuspringen. Filter und Suche sind kombinierbar, so dass du deine Suche auf einen Filter begrenzen kannst.
+
+![image](https://i.imgur.com/vr8AGqA.png)
 
 ### Webseite
-Zur Web App: https://fwkart.de/apps/ini-file-viewer/
+Hier geht es zur App: [https://fwkart.de/apps/ini-file-viewer/](https://fwkart.de/apps/ini-file-viewer/)
 
-<br/><br/>
+--------------------------------------------------------
+<br/><br/><br/><br/>
+
+## Sprachdatei Downloader (Web-App)
+![image](https://i.imgur.com/dkuXC2W.png)
+
+Erspare dir den Weg über GitHub um den neuesten Release der Übersetzung herunterzuladen. Eine Web-App mit der du ganz leicht den neuesten Build aus einem Dropdown-Menü auswählen und herunterladen kannst.<br/>
+
+### Webseite
+Hier geht es zur App: [https://fwkart.de/apps/sc_release/](https://fwkart.de/apps/sc_release/)
+
+--------------------------------------------------------
+<br/><br/><br/><br/>
 
 ## Besseres Spectrum Dark Theme (Chrome Extension)
 ![image](https://i.imgur.com/tpAHE8n.png)
@@ -38,22 +55,70 @@ Insgesamt wirkt Spectrum nun viel aufgeräumter. Die Galerie wurde komplett übe
 
 ### Download
 
-SpectrumDarkMode auf GitHub: https://github.com/rjcncpt/SpectrumDarkMode-Chrome-Extension/releases/
+- [SpectrumDarkMode auf GitHub](https://github.com/rjcncpt/SpectrumDarkMode-Chrome-Extension/releases/)
+- [SpectrumDarkMode im Chrome Web-Shop](https://chrome.google.com/webstore/detail/star-citizen-better-spect/omcmgcldeclkpakdccipdajcfddhcdkj)
 
-SpectrumDarkMode im Chrome Web-Shop: https://chrome.google.com/webstore/detail/star-citizen-better-spect/omcmgcldeclkpakdccipdajcfddhcdkj
+--------------------------------------------------------
+<br/><br/><br/><br/>
 
-<br/><br/>
+## Symbolic Link vom LIVE Ordner erstellen
+![image](https://i.imgur.com/HrASh6V.png)
+
+Der ständige Download von vielen Gigabyte Daten, wenn man zwischen LIVE und PTU wechselt, ist unnötig. Erstelle mit einem winzigen Tool eine symbolische Verknüpfung des LIVE Verzeichnisses und spare dir Zeit. Ein "Symbolic Link" ist nichts anderes als eine Verknüpfung, funktioniert jedoch anders.
+
+### Symbolic Link für Ordner
+
+- Ein Symbolic Link für einen Ordner ist eine Verknüpfung zu einem Verzeichnis, die einen Pfad zu einem anderen Verzeichnis darstellt.
+- Symbolic Links können auf andere Laufwerke oder Netzwerkpfade verweisen.
+- Änderungen am Zielordner beeinflussen den Symbolic Link und umgekehrt.
+- Symbolic Links sind flexibler, da sie auf nicht existierende Pfade zeigen können.
+
+### So geht's
+
+1. Lade dir das Tool herunter: https://sourceforge.net/projects/symlink-creator/
+2. Öffne die `SymlinkCreator.exe`
+3. **Type of Link:** Wähle die Option `Directory Symbolic Link (/D)`
+4. **Destination (Link):** Wähle dein Zielverzeichnis. Zum Beispiel PTU
+5. **Source (Target):** Wähle das Quellverzeichnis. In diesem Fall LIVE
+6. Klicke auf **Create Link**
+
+<br/>Wenn du alles richtig gemacht hast und alle Verknüpfungen erstellt hast, die du brauchst, sollte es wie bei mir aussehen.
+
+![image](https://i.imgur.com/VAsoJBz.png)
+
+<br/>Jetzt brauchst du im RSI-Launcher nur noch die entsprechende Testumgebung auswählen und es werden immer nur die fehlenden Daten installiert, weil die Grundlage der symbolischen Verknüpfung der LIVE Ordner ist. Damit entfällt das Umbenennen oder Kopieren der Ordner.
+
+![image](https://i.imgur.com/cEVsdeS.png)
+
+<br/>
+
+> [!IMPORTANT]  
+> **Wenn du die Reihenfolge im Tool vertauschst, löschst du den LIVE Ordner. Also achte auf Quell- und Zielverzeichnis. Orientiere dich an meinem Screenshot.**
+
+
+
+--------------------------------------------------------
+<br/><br/><br/><br/>
 
 ## Automatisches Übersetzungsupdate (.bat)
 ![image](https://i.imgur.com/dbpGOEq.png)
 
-Diese Datei(en) ermöglichen es dir auf einfachste Weise, vor jedem RSI-Launcher Start ein Update der aktuellen Übersetzungsdatei durchzuführen. Bevor du startest, musst du ein paar Schritte durchführen. Nach dem ini-Update startet der RSI-Launcher automatisch.
+Diese Datei(en) ermöglichen es dir auf einfachste Weise, vor jedem RSI-Launcher Start ein Update der aktuellen Übersetzungsdatei durchzuführen. Bevor du startest, musst du ein paar Schritte durchführen. Nachdem das ini-Update durchgeführt wurde, startet der RSI-Launcher automatisch.
+
+#### Verfügbare Update-Dateien
+
+| Dateiname                | Download                                                                                                           | Beschreibung                                                  | Hinweis                                                                                                                                     |
+|:-------------------------|:-------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
+| `INI Updater.bat`        | [Download](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/docs_tools/apps/INI%20Updater.bat)         | Diese Datei updatet die LIVE und PTU Übersetzung gleichzeitig | Verwenden, wenn die LIVE und PTU Verzeichnise eigenständige Ordner und KEINE Symbolic Link Ordner sind                                      |
+| `LIVE Updater.bat`       | [Download](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/docs_tools/apps/LIVE%20Updater.bat)        | Diese Datei updatet nur die LIVE Übersetzung                  | Verwenden, wenn deine LIVE und PTU Verzeichnise sogenante Symbolic Link Ordner sind. [Mehr Infos](#symbolic-link-vom-live-ordner-erstellen) |
+| `PTU Updater.bat`        | [Download](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/docs_tools/apps/PTU%20Updater.bat)         | Diese Datei updatet nur die PTU Übersetzung                   | Verwenden, wenn deine LIVE und PTU Verzeichnise sogenante Symbolic Link Ordner sind. [Mehr Infos](#symbolic-link-vom-live-ordner-erstellen) |
+| `LIVE FULL Updater.bat`  | [Download](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/docs_tools/apps/LIVE%20FULL%20Updater.bat) | Diese Datei updatet nur die vollständige LIVE Übersetzung     | Verwenden, wenn deine LIVE und PTU Verzeichnise sogenante Symbolic Link Ordner sind. [Mehr Infos](#symbolic-link-vom-live-ordner-erstellen) |
 
 ### So geht's
 
 1. Lade dir die .bat Datei(en) herunter
 2. Speichere die Datei(en) in den Spielordner
-3. Klicke mit der rechten Maustaste auf die Datei(en) und wähle `bearbeiten` aus
+3. Klicke mit der rechten Maustaste auf die Datei(en) und wähle `Bearbeiten` aus
 4. Passe den Pfad zum Star Citizen (1) Sprachdatei Ordner an
 5. Passe den Pfad zum RSI-Launcher (2) an
 6. Speichern <br/>
@@ -68,6 +133,8 @@ Diese Datei(en) ermöglichen es dir auf einfachste Weise, vor jedem RSI-Launcher
 3. Wähle `Anderes Symbol` ⇾ `Duchsuchen` und suche dir ein Icon aus
 
 Tipp: Verwende die Spiel-Icons. Navigiere zum Star Citizen Ordner, um das SC Icon zu verwenden, oder zum RSI Launcher, um das Launcher Icon zu verwenden.
+
+--------------------------------------------------------
 <br/><br/><br/><br/>
 
 ## SC Launch Configurator

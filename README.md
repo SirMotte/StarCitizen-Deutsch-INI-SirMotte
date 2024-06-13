@@ -1,7 +1,7 @@
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) <!-- [![Static Badge](https://img.shields.io/badge/VORBEREITUNG-%23f3ac04?style=for-the-badge&label=3.23.0%20)](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases)--><br/>
 [![Static Badge](https://img.shields.io/badge/Work%20In%20Process-%23f3ac04?style=for-the-badge&labelColor=232323&label=ini)](#) [![Static Badge](https://img.shields.io/badge/%F0%9F%92%96-%23fff?style=for-the-badge&labelColor=232323&label=Star%20Citizen)](https://robertsspaceindustries.com/) [![Static Badge](https://img.shields.io/badge/24k-brightgreen?style=for-the-badge&logoColor=000&label=Downloads&labelColor=232323&color=fff)](https://hanadigital.github.io/grev/?user=rjcncpt&repo=StarCitizen-Deutsch-INI)
 
-![Static Badge](https://img.shields.io/badge/Download-brightgreen?style=for-the-badge&color=fff) <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=live&expanded=true">![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=semver&filter=*LIVE*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a> <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=ptu&expanded=true">![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=date&filter=*PTU*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a>
+![Static Badge](https://img.shields.io/badge/Download-brightgreen?style=for-the-badge&color=fff) <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=live&expanded=true">![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=date&filter=*LIVE*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a> <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=ptu&expanded=true">![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=date&filter=*PTU*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a>
 
 [![Star Citizen in Deutsch](https://i.imgur.com/WAP6UNa.png)](#)
 
@@ -53,16 +53,14 @@ Um diese Herausforderung zu bewältigen, haben wir eine Vielzahl von komplexen M
 
 **Wir fahren aktuell einen wöchentlichen Release Zyklus, um die Anzahl der Releases zu reduzieren und die Übersicht zu verbessern. An jedem Freitag wird aus den Änderungen der Woche ein Release erstellt, der dann heruntergeladen werden kann.**
 
-[<img src="https://i.imgur.com/rbsGtww.png" width="100%">](https://www.youtube.com/watch?v=_0H4Kc7s3Z4 "Installationsanleitung - Star Citizen in Deutsch")
-
 > [!IMPORTANT]  
 > **Um @-Darstellungsfehler zu vermeiden, aktualisiere regelmäßig die Übersetzungsdatei. Mit nahezu jedem Patch kommen neue Zeilen hinzu, die sonst im Spiel fehlen und als @-Fehler angezeigt werden.**
 
-<br/>
+[<img src="https://i.imgur.com/rbsGtww.png" width="100%">](https://www.youtube.com/watch?v=_0H4Kc7s3Z4 "Installationsanleitung - Star Citizen in Deutsch")
 
 ### Variante 1: Download ZIP (Empfohlen)
 1. **Lade dir die neueste Übersetzung als ZIP-Datei herunter**<br/>
-    <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=live&expanded=true">![Static Badge](https://img.shields.io/badge/LIVE-brightgreen?style=for-the-badge&color=232323)![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=semver&filter=*LIVE*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a><br/><a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=ptu&expanded=true">![Static Badge](https://img.shields.io/badge/PTU-brightgreen?style=for-the-badge&color=232323)![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=date&filter=*PTU*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a> <!-- https://shields.io/badges/git-hub-release -->
+    <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=live&expanded=true">![Static Badge](https://img.shields.io/badge/LIVE-brightgreen?style=for-the-badge&color=232323)![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=date&filter=*LIVE*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a><br/><a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=ptu&expanded=true">![Static Badge](https://img.shields.io/badge/PTU-brightgreen?style=for-the-badge&color=232323)![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=date&filter=*PTU*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a> <!-- https://shields.io/badges/git-hub-release -->
 2. **Entpacke die ZIP-Datei auf deine Festplatte**
 3. **Kopiere den Inhalt der entpackten ZIP-Datei in den LIVE bzw. PTU/EPTU Ordner:** <br/>
   `\ Roberts Space Industries \ StarCitizen \ LIVE \` <br/>
@@ -74,6 +72,10 @@ g_language = german_(germany)
 g_languageAudio = english
 ```
 
+> [!TIP]  
+> **Erspare dir den Weg über GitHub, um den neuesten Release der Übersetzung herunterzuladen. Nutze unsere Web-App, bei der du auf den ersten Blick siehst, wann die Übersetzung zuletzt aktualisiert wurde. Du kannst ganz einfach den neuesten Build aus einem Dropdown-Menü auswählen und herunterladen. Speichere dir die Seite als Lesezeichen ab.**
+> Webseite: https://fwkart.de/apps/sc_release/
+
 <br/><br/>
 ### Variante 2: global.ini herunterladen
 1. **Öffne die global.ini für [LIVE](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/live/global.ini) oder [PTU](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/ptu/global.ini)**
@@ -84,9 +86,10 @@ g_languageAudio = english
 
 <br/><br/>
 
-### Variante 3: Automatisches Übersetzungs-Update
+### Variante 3: Automatisches Übersetzungs-Update (experimentell)
+Um immer auf dem aktuellen Stand zu bleiben, kannst du die INI-Datei auch automatisch mit dem Launcher Start updaten lassen. Erfahre **[auf dieser Seite](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/tree/main/docs_tools/apps#automatisches-%C3%BCbersetzungsupdate-bat)** welche Möglichkeiten du hast.<br/>
 
-Um immer auf dem aktuellen Stand zu bleiben, kannst du die INI-Datei auch automatisch mit dem Launcher Start updaten lassen. Erfahre **[auf dieser Seite](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/tree/main/docs_tools/apps#automatisches-%C3%BCbersetzungsupdate-bat)** welche Möglichkeiten du hast.
+💡 **Nicht empfohlen. Es können beim Versuch der aktualisierung Fehler auftreten. GitHub hat API Rate Limits die manchmal, auf Grund der hohen Zugriffe, den Download blockieren. Lade dir wöchentlich unsere **[stabilen Releases über die Web-App](https://fwkart.de/apps/sc_release/)** herunter.**
 <br/><br/>
 
 ------------------------------------
@@ -223,9 +226,13 @@ Diese Übersetzung ist komplett unabhängig und in erster Linie ein Community-Pr
 
 <br/>
 
-### Mehr von rjcncpt
+## Mehr von rjcncpt
 
-[![Better Spectrum Dark Mode](https://i.imgur.com/QqXnJJb.png)](https://github.com/rjcncpt/SpectrumDarkMode-Extension)
+| Dark Mode Extension für Spectrum | INI FILE VIEWER (Web app) |
+|:---------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+|[![Better Spectrum Dark Mode](https://i.imgur.com/C0PoJHG.png)](https://github.com/rjcncpt/SpectrumDarkMode-Extension)|[![INI FILE VIEWER](https://i.imgur.com/rSvr8H1.png)](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/docs_tools/apps/README.md#ini-file-viewer-web-app)|
+
+ 
 
 <br/>
 
