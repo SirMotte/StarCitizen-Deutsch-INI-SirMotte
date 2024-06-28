@@ -53,7 +53,7 @@ Um diese Herausforderung zu bewältigen, haben wir eine Vielzahl von komplexen M
 [<img src="https://i.imgur.com/rbsGtww.png" width="100%">](https://www.youtube.com/watch?v=_0H4Kc7s3Z4 "Installationsanleitung - Star Citizen in Deutsch")
 
 > [!IMPORTANT]  
-> **Um @-Darstellungsfehler zu vermeiden, aktualisiere regelmäßig die Übersetzungsdatei. Mit nahezu jedem Patch kommen neue Zeilen hinzu, die sonst im Spiel fehlen und als @-Fehler angezeigt werden.**
+> **Um @-Darstellungsfehler zu vermeiden, aktualisiere regelmäßig (wöchentlich) die Übersetzungsdatei. Wir optimieren regelmäßig unsere Übersetzung (durch Community Reports, Stream Beobachtungen etc.) und steigern ständig die Qualität. Außerdem kommen mit nahezu jedem Patch neue Zeilen hinzu, die Dir sonst im Spiel fehlen und als @-Fehler angezeigt werden.**
 
 <br/>
 
@@ -93,9 +93,9 @@ Nicht empfohlen da GitHub API Rate Limits setzt und in Stoßzeiten der automatis
 
 ## Wie aktuell ist die deutsche Übersetzung?
 
-Zum aktuellen Zeitpunkt ist die deutsche Übersetzung tagesaktuell, allerdings mit einer Verzögerung von wenigen Stunden, da die neuen Zeilen erst übertragen und übersetzt werden müssen. In der Regel veröffentlicht CIG die neuen Patches zwischen 22 und 1 Uhr nachts. Die Übersetzung ist demnach gegen 10 Uhr morgens verfügbar. Unsere Übersetzungsdatei ist zu 100% identisch mit der, die CIG zur Verfügung stellt. Sollten im Spiel Variablen mit einem @-Zeichen angezeigt werden, liegt der Fehler bei CIG und wird in späteren Patches korrigiert.
+Zum aktuellen Zeitpunkt ist die deutsche Übersetzung tagesaktuell. In der Regel veröffentlicht CIG die neuen Patches zwischen 23 und 3 Uhr nachts. Nachdem wir die neuen und geänderten Zeilen übertragen und übersetzt haben, laden wir die neue Übersetzung gegen 10 Uhr morgens auf GitHub. Unsere Übersetzungsdatei ist zu 100% identisch mit der, die CIG zur Verfügung stellt. Sollten im Spiel Variablen mit einem @-Zeichen angezeigt werden, liegt der Fehler bei CIG und wird in späteren Patches korrigiert.
 
-💡 **Es kommt häufig vor, dass eine neue Spielversion veröffentlich aber hier kein Update hochgeladen wurde. In diesem Fall gab es keine Veränderungen an der ursprünglichen global.ini Sprachdatei.**
+💡 **Es kommt häufig vor, dass eine neue Spielversion veröffentlicht wird aber hier kein Update hochgeladen wurde. In diesem Fall gab es keine Veränderungen an der ursprünglichen global.ini Sprachdatei.**
 <br/><br/><br/><br/>
 
 ## Evocati Builds und Tech-Preview Channels
