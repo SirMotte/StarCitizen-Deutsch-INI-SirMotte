@@ -1,5 +1,5 @@
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/TECH%20PREVIEW-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/!-%23ff9800?style=for-the-badge&labelColor=red%20)](#evocati-builds-und-tech-preview-channels) [![Static Badge](https://img.shields.io/badge/EVOCATI-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/X-%23db0909?style=for-the-badge&labelColor=red%20)](#evocati-builds-und-tech-preview-channels) <br/>
-[![Static Badge](https://img.shields.io/badge/Team%20Unterstützen-%23fff?style=for-the-badge&labelColor=232323&label=Support)](https://fwkart.de/apps/support/) [![Static Badge](https://img.shields.io/badge/%F0%9F%92%96-%23fff?style=for-the-badge&labelColor=232323&label=Star%20Citizen)](https://robertsspaceindustries.com/) [![Static Badge](https://img.shields.io/badge/25k-brightgreen?style=for-the-badge&logoColor=000&label=Downloads&labelColor=232323&color=fff)](https://hanadigital.github.io/grev/?user=rjcncpt&repo=StarCitizen-Deutsch-INI)
+[![Static Badge](https://img.shields.io/badge/Team%20Unterstützen-%23fff?style=for-the-badge&labelColor=232323&label=Support)](https://fwkart.de/apps/support/) [![Static Badge](https://img.shields.io/badge/%F0%9F%92%96-%23fff?style=for-the-badge&labelColor=232323&label=Star%20Citizen)](https://robertsspaceindustries.com/) [![Static Badge](https://img.shields.io/badge/26k-brightgreen?style=for-the-badge&logoColor=000&label=Downloads&labelColor=232323&color=fff)](https://hanadigital.github.io/grev/?user=rjcncpt&repo=StarCitizen-Deutsch-INI)
 
 [![Star Citizen in Deutsch](https://i.imgur.com/WAP6UNa.png)](#)
 
@@ -15,7 +15,7 @@ Hilf gern dabei, diese Übersetzung besser zu machen und **[tritt unserem öffen
 
 - **[Anleitung zur Installation](#anleitung-zur-installation)**
 - **[Wie aktuell ist die deutsche Übersetzung?](#wie-aktuell-ist-die-deutsche-übersetzung)**
-- **[Evocati Builds & Preview Channels](#evocati-builds-und-tech-preview-channels)**
+- **[Tech-Preview Channels und Evocati Builds](#tech-preview-channels-und-evocati-builds)**
 - **[Das Team](#das-team)**
 - **[Fragen und Antworten](#fragen-und-antworten)**
 - **[Mehr von rjcncpt](#mehr-von-rjcncpt)**
@@ -23,7 +23,7 @@ Hilf gern dabei, diese Übersetzung besser zu machen und **[tritt unserem öffen
 
 ## Über diese Übersetzung
 
-![image](https://i.imgur.com/0sW5TPo.png)
+![Star Citizen Deutsch Hauptmenü](https://i.imgur.com/0sW5TPo.png)
 
 Wir bieten zwei Versionen unserer Sprachdatei an: eine Standardversion und eine vollständige Übersetzung. Die Standardversion sorgt dafür, dass Eigennamen, Missionstitel und Items nicht übersetzt werden. Diese Version gewährleistet Konsistenz beim Spielen mit internationalen Mitspielern und erhält die Kompatibilität mit dem Issue Council auf der RSI-Webseite. Zudem unterstützen wir damit Drittanbieter-Webseiten, Item-Datenbanken sowie Video- und Texttutorials.
 
@@ -98,7 +98,7 @@ Zum aktuellen Zeitpunkt ist die deutsche Übersetzung tagesaktuell. In der Regel
 💡 **Es kommt häufig vor, dass eine neue Spielversion veröffentlicht wird aber hier kein Update hochgeladen wurde. In diesem Fall gab es keine Veränderungen an der ursprünglichen global.ini Sprachdatei.**
 <br/><br/><br/><br/>
 
-## Evocati Builds und Tech-Preview Channels
+## Tech-Preview Channels und Evocati Builds
 
 Preview-Channel werden von uns nicht direkt unterstützt. Du kannst natürlich unsere Sprachdatei in den Tech-Preview Ordner kopieren und ausprobieren. Sei dir aber bewusst, dass es zu Darstellungsfehler kommen kann! Generell empfehlen wir jedoch die Sprachdatei zu deaktivieren. Öffne die **`user.cfg`** Datei und füge ein **Semikolon (`;`)** vor die Zeile **`g_language = german_(germany)`** hinzu.<br/>
 ```
@@ -232,20 +232,15 @@ Diese Übersetzung ist komplett unabhängig und in erster Linie ein Community-Pr
 |:---------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
 |[![Better Spectrum Dark Mode](https://i.imgur.com/C0PoJHG.png)](https://github.com/rjcncpt/SpectrumDarkMode-Extension)|[![INI FILE VIEWER](https://i.imgur.com/rSvr8H1.png)](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/docs_tools/apps/README.md#ini-file-viewer-web-app)|
 
- 
-
 <br/>
 
 ------------------------------------
 
 <br/>
-Salut and stay tuned!
 
-[![Made by the Community](https://i.imgur.com/2RWyGPJ.png)](#)
-
-<br/><br/><br/><br/>
--------<br/>
-**Urheberrecht und CC-Lizenz**<br/>
-Das gesamte GitHub-Repository sowie individuelle Texte in den global.ini-Dateien, die sich erheblich in ihrer Schöpfungshöhe vom Original abheben, sind urheberrechtlich geschützt und unterliegen der freien [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz. Dies bedeutet, dass Sie die Inhalte für nicht-kommerzielle Zwecke nutzen, bearbeiten und weiterverbreiten dürfen, solange Sie die Urheberschaft angeben und die gleiche Lizenz für Ihre Weiterbearbeitungen verwenden.
+### Urheberrecht
+**Das gesamte GitHub-Repository sowie individuelle Texte in den global.ini-Dateien, die sich erheblich in ihrer Schöpfungshöhe vom Original abheben, sind urheberrechtlich geschützt und unterliegen der freien [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz. Dies bedeutet, dass Sie die Inhalte für nicht-kommerzielle Zwecke nutzen, bearbeiten und weiterverbreiten dürfen, solange Sie die Urheberschaft angeben und die gleiche Lizenz für Ihre Weiterbearbeitungen verwenden.**
 <br/><br/>
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Made by the Community](https://i.imgur.com/2RWyGPJ.png)](#)
