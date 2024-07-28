@@ -25,9 +25,9 @@ Hilf gern dabei, diese Übersetzung besser zu machen und **[tritt unserem öffen
 
 ![Star Citizen Deutsch Hauptmenü](https://i.imgur.com/0sW5TPo.png)
 
-Wir bieten zwei Versionen unserer Sprachdatei an: eine Standardversion und eine vollständige Übersetzung. Die Standardversion sorgt dafür, dass Eigennamen, Missionstitel und Items nicht übersetzt werden. Diese Version gewährleistet Konsistenz beim Spielen mit internationalen Mitspielern und erhält die Kompatibilität mit dem Issue Council auf der RSI-Webseite. Zudem unterstützen wir damit Drittanbieter-Webseiten, Item-Datenbanken sowie Video- und Texttutorials.
+Wir bieten zwei Versionen unserer Sprachdatei an: eine hybride Übersetzung und eine vollständige (experimentelle) Übersetzung. In der hybriden Übersetzung sind Eigennamen, Missionstitel, Items und Orte/Unternehmen nicht übersetzt. Diese Version gewährleistet Konsistenz beim Spielen mit internationalen Mitspielern und erhält die Kompatibilität mit dem Issue Council auf der RSI-Webseite. Zudem unterstützen wir damit Drittanbieter-Webseiten, Item-Datenbanken sowie Video- und Texttutorials.
 
-Vollständige Übersetzung von Star Citizen: Für Spieler, die einfach nur spielen möchten, ohne sich um Fehlerberichte im Issue Council zu kümmern, haben wir eine vollständige Übersetzung der Sprachdatei entwickelt. Diese Version geht über die Standardübersetzung hinaus und umfasst auch die Übersetzung von Missionstiteln sowie teilweise von Items, Ortsnamen und Unternehmen. **Eigennamen sind auch in dieser Version nicht übersetzt.** Bitte beachte, dass diese Sprachdatei derzeit nur für die LIVE-Server verfügbar ist und viel Interpretationsspielraum enthält.
+Vollständige (experimentelle) Übersetzung: Für Spieler, die einfach nur spielen möchten, ohne sich um Fehlerberichte im Issue Council zu kümmern, haben wir eine vollständige (experimentelle) Übersetzung der Sprachdatei entwickelt. Diese Version geht über die Hybride Übersetzung hinaus und umfasst auch die Übersetzung von Missionstiteln sowie teilweise von Items, Ortsnamen und Unternehmen. **Eigennamen sind auch in dieser Version nicht übersetzt.** Bitte beachte, dass diese Sprachdatei derzeit nur für die LIVE-Server verfügbar ist und viel Interpretationsspielraum enthält.
 <br/><br/>
 
 ### Wir interpretieren Missionstexte neu
@@ -63,8 +63,14 @@ Um diese Herausforderung zu bewältigen, haben wir eine Vielzahl von komplexen M
     <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=live&expanded=true">![Static Badge](https://img.shields.io/badge/LIVE-brightgreen?style=for-the-badge&color=232323)![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=date&filter=*LIVE*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a><br/><a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=ptu&expanded=true">![Static Badge](https://img.shields.io/badge/PTU-brightgreen?style=for-the-badge&color=232323)![GitHub Release](https://img.shields.io/github/v/release/rjcncpt/StarCitizen-Deutsch-INI?include_prereleases&sort=date&filter=*PTU*&display_name=release&style=for-the-badge&labelColor=232323&label=%20)</a> <!-- https://shields.io/badges/git-hub-release --> <br/><br/>
 2. **Entpacke die ZIP-Datei auf deine Festplatte** <br/>
 3. **Kopiere den kompletten Inhalt der entpackten ZIP-Datei in den LIVE bzw. PTU/EPTU Ordner:** <br/>
-  `\ Roberts Space Industries \ StarCitizen \ LIVE \` <br/>
-  `\ Roberts Space Industries \ StarCitizen \ PTU \` <br/><br/>
+
+   Inhalt:
+   - `user` Ordner
+   - `user.cfg` Datei
+
+   Speicherort (Laufwerksbuchstaben kann bei dir ein anderer sein):
+   - `C:\ Program Files \Roberts Space Industries \ StarCitizen \ LIVE \` <br/>
+   - `C:\ Program Files \Roberts Space Industries \ StarCitizen \ PTU \` <br/><br/>
 
 💡 **Nutzt du eine eigene `user.cfg` Datei mit eigenen Anpassungen, überschreibe deine Datei auf keinen Fall und ergänze diese mit folgenden zwei Zeilen:** <br/>
   ```
@@ -76,7 +82,9 @@ g_languageAudio = english
 ### Variante 2: Direktdownload der global.ini Datei
 1. **Öffne die global.ini für [LIVE](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/live/global.ini) oder [PTU](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/ptu/global.ini)**
 2. **Klicke links auf das "herunterladen"-Symbol und bestätige ggf. den Download.**
-3. Kopiere die heruntergeladene `global.ini` in den jeweiligen Star Citizen Installationspfad <br/>
+3. Bei Erstinstallation, erstelle die Ordnerstruktur im LIVE bzw. PTU Verzeichnis:
+   - `data \ Localization \ german_(germany) \` <br/><br/>
+4. Kopiere die heruntergeladene `global.ini` in den jeweiligen Star Citizen Installationspfad. <br/>
 `\ LIVE \ data \ Localization \ german_(germany) \ global.ini` <br/>
 `\ PTU \ data \ Localization \ german_(germany) \ global.ini`
 
