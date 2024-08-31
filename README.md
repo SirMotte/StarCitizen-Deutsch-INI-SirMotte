@@ -3,9 +3,11 @@
 
 [![Star Citizen in Deutsch](https://i.imgur.com/WAP6UNa.png)](#)
 
-# Star Citizen in Deutsch - Lokalisierung für LIVE und PTU, Sir Mottes Edition
+# Star Citizen in Deutsch - Lokalisierung für LIVE und PTU, Sir Motte Edition
 
-#### Achtung, diese Version wurde durch mich stark angepasst und nennt sowohl Namen als auch Eigenmarken um bzw deutscht diese z.T. ein. Aus diesem Grund ist diese Variante für die meisten Spieler möglicherweise unbrauchbar, da zu stark abgewandelt. Die deutsche Sprachdatei für Star Citizen ist ein Gemeinschaftsprojekt, das darauf abzielt, Star Citizen im deutschsprachigen Raum zugänglicher und verständlicher zu gestalten. Das Projekt trägt dazu bei, den Erfolg des Spiels zu fördern und ein besseres Spielerlebnis für deutsche Spieler zu schaffen, indem wir die Immersion und das Verständnis durch eine sorgfältig angepasste Übersetzung stärken.
+#### Achtung, diese Version wurde durch mich stark angepasst und nennt sowohl Namen als auch Eigenmarken um bzw deutscht diese z.T. ein. Aus diesem Grund ist diese Variante für die meisten Spieler möglicherweise unbrauchbar, da zu stark abgewandelt. 
+
+#### Die deutsche Sprachdatei für Star Citizen ist ein Gemeinschaftsprojekt, das darauf abzielt, Star Citizen im deutschsprachigen Raum zugänglicher und verständlicher zu gestalten. Das Projekt trägt dazu bei, den Erfolg des Spiels zu fördern und ein besseres Spielerlebnis für deutsche Spieler zu schaffen, indem wir die Immersion und das Verständnis durch eine sorgfältig angepasste Übersetzung stärken.
 
 Hilf gern dabei, diese Übersetzung besser zu machen und **[tritt unserem öffentlichen Übersetzungs Discord](https://discord.gg/5VZsTk3qjR)** bei, oder eröffne **[eine Diskussion](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/discussions/categories/%C3%BCbersetzungsvorschl%C3%A4ge)** oder **[einen Issue](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/issues/new?assignees=&labels=Fehler&projects=&template=bug_report.md&title=)** und schreibe uns deinen Vorschlag und werde ein Teil dieser Übersetzung!
 
