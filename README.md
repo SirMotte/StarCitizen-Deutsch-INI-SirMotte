@@ -1,5 +1,5 @@
 [![Static Badge](https://img.shields.io/badge/LIVE%203.24.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/PTU%203.24.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/TECH%20PREVIEW-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/!-%23ff9800?style=for-the-badge&labelColor=red%20)](#evocati-builds-und-tech-preview-channels) [![Static Badge](https://img.shields.io/badge/EVOCATI-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/X-%23db0909?style=for-the-badge&labelColor=red%20)](#evocati-builds-und-tech-preview-channels) <br/>
-[![Static Badge](https://img.shields.io/badge/sag%20dem%20Team%20Danke-%23fff?style=for-the-badge&labelColor=232323&label=Support)](https://fwkart.de/apps/support/) [![Static Badge](https://img.shields.io/badge/%F0%9F%92%96-%23fff?style=for-the-badge&labelColor=232323&label=Star%20Citizen)](https://robertsspaceindustries.com/) [![Static Badge](https://img.shields.io/badge/30k-brightgreen?style=for-the-badge&logoColor=000&label=Downloads&labelColor=232323&color=fff)](https://hanadigital.github.io/grev/?user=rjcncpt&repo=StarCitizen-Deutsch-INI) [![Discord](https://img.shields.io/discord/1234564972198236261?style=for-the-badge&logo=discord&logoColor=fff&label=Discord&labelColor=232323&color=4cc71e)](https://discord.gg/5VZsTk3qjR)
+[![Static Badge](https://img.shields.io/badge/sag%20dem%20Team%20Danke-%23fff?style=for-the-badge&labelColor=232323&label=Support)](https://www.sc-deutsch-launcher.de/apps/support/) [![Static Badge](https://img.shields.io/badge/%F0%9F%92%96-%23fff?style=for-the-badge&labelColor=232323&label=Star%20Citizen)](https://robertsspaceindustries.com/) [![Static Badge](https://img.shields.io/badge/30k-brightgreen?style=for-the-badge&logoColor=000&label=Downloads&labelColor=232323&color=fff)](https://hanadigital.github.io/grev/?user=rjcncpt&repo=StarCitizen-Deutsch-INI) [![Discord](https://img.shields.io/discord/1234564972198236261?style=for-the-badge&logo=discord&logoColor=fff&label=Discord&labelColor=232323&color=4cc71e)](https://discord.gg/5VZsTk3qjR)
 
 [![Star Citizen in Deutsch](https://i.imgur.com/WAP6UNa.png)](#)
 
@@ -41,7 +41,7 @@ Um diese Herausforderung zu bewältigen, haben wir eine Vielzahl von komplexen M
 <br/><br/>
 
 ### Das Team freut sich über ein Dankeschön
-Wir erhalten hin und wieder Nachrichten, wie man das Übersetzer-Team unterstützen kann, die maßgeblich an der Übersetzung beteiligt sind. Möchtest du dich in irgendeiner Form Dankbar zeigen, rufe **[die Support-Webseite auf](https://fwkart.de/apps/support/)**, auf der per Zufall ein Teammitglied angezeigt wird.
+Wir erhalten hin und wieder Nachrichten, wie man das Übersetzer-Team unterstützen kann, die maßgeblich an der Übersetzung beteiligt sind. Möchtest du dich in irgendeiner Form Dankbar zeigen, rufe **[die Support-Webseite auf](https://www.sc-deutsch-launcher.de/apps/support/)**, auf der per Zufall ein Teammitglied angezeigt wird.
 <br/><br/>
 
 ------------------------------------
@@ -53,11 +53,11 @@ Wir erhalten hin und wieder Nachrichten, wie man das Übersetzer-Team unterstüt
 ### Variante 1: Automatisches Update der Übersetzung (SC Deutsch Launcher)
 Der **SC DEUTSCH LAUNCHER** ist eine von uns entwickelte kostenfreie App, welche es dir ermöglicht, die Sprachen deine Star Citizen Installation(en) bequem von Englisch auf Deutsch und wieder zurück zu stellen. Darüberhinaus erfolgt nach dem Update der Übersetzungsdateien der Start des RSI Launcher.
 
-[<img src="https://www.fwkart.de/sc-deutsch-launcher/img/sc-deutsch-launcher-ui.png" width="838">](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/tree/main/docs_tools/apps#automatisches-übersetzungsupdate "SC Deutsch Launcher Download")
+[<img src="https://www.sc-deutsch-launcher.de/img/sc-deutsch-launcher-ui.png" width="838">](https://www.sc-deutsch-launcher.de/ "SC Deutsch Launcher Download")
 
 Beim erstmaligen Start überprüft der SC DEUTSCH LAUNCHER automatisch, ob und auf welcher Festplatte Star Citizen installiert ist. Gefundene Installationen werden grün markiert, nicht erkannte Installationen bleiben schwarz.
 
-Download und mehr Informationen zum [SC Deutsch Launcher findest du hier](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/tree/main/docs_tools/apps#automatisches-übersetzungsupdate)
+[![SC Deutsch Launcher Download Portable](https://www.sc-deutsch-launcher.de/img/herunterladen.png)](https://www.sc-deutsch-launcher.de)
 <br/><br/><br/>
 
 
