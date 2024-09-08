@@ -14,11 +14,22 @@ Auf dieser Seite listen wir eigens entwickelte und 3rd Party Tools und Web-Apps 
 <br/><br/>
 
 ## Automatisches Übersetzungsupdate
-![SC Deutsch Launcher Download](https://www.sc-deutsch-launcher.de/img/sc-deutsch-launcher-ui.webp)
+![SC Deutsch Launcher Download](https://www.sc-deutsch-launcher.de/img/sc-deutsch-launcher-social.png)
 
 Der **SC DEUTSCH LAUNCHER** ist eine von uns entwickelte kostenfreie App, welche es dir ermöglicht, die Sprachen deiner Star Citizen Installation(en) bequem von Englisch auf Deutsch und wieder zurück zu stellen. Darüberhinaus erfolgt nach dem Update der Übersetzungsdateien der Start des RSI Launcher.<br/><br/>
 
 [![SC Deutsch Launcher Download Portable](https://www.sc-deutsch-launcher.de/img/herunterladen.png)](https://www.sc-deutsch-launcher.de)
+
+--------------------------------------------------------
+<br/><br/><br/><br/>
+
+## Manueller Download über Webapp
+![SC Deutsch Launcher Download](https://www.sc-deutsch-launcher.de/img/sprachdatei-downloader-webapp.webp)
+
+Wenn du unseren **SC Deutsch Launcher** nicht verwenden möchtest und stattdessen alles manuell erledigen willst, haben wir eine benutzerfreundliche Webapp entwickelt. Diese Webapp bietet dir die Möglichkeit, die aktuellen Releases für LIVE und PTU bequem als Zip-Archiv herunterzuladen, ohne dich durch GitHub-Seiten klicken zu müssen. Über ein Dropdown-Menü kannst du einfach auswählen, ob du den neuesten LIVE- oder PTU-Release herunterladen möchtest.<br/><br/>
+
+Zur Webapp: https://www.sc-deutsch-launcher.de/apps/sc_release/ <br/>
+Youtube Tutorial (Ab 0:15 Sekunden): https://youtu.be/_0H4Kc7s3Z4?si=wAe1GN7ylMPy4eCG&t=15
 
 --------------------------------------------------------
 <br/><br/><br/><br/>
