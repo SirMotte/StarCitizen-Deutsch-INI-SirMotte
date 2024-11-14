@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/LIVE%203.24.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/PTU%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/TECH%20PREVIEW-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/!-%23ff9800?style=for-the-badge&labelColor=red%20)](#evocati-builds-und-tech-preview-channels) [![Static Badge](https://img.shields.io/badge/EVOCATI-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/X-%23db0909?style=for-the-badge&labelColor=red%20)](#evocati-builds-und-tech-preview-channels) <br/>
+[![Static Badge](https://img.shields.io/badge/LIVE%203.24.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/PTU%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/TECH%20PREVIEW-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%23ff9800?style=for-the-badge&labelColor=red%20)](#evocati-builds-und-tech-preview-channels) [![Static Badge](https://img.shields.io/badge/EVOCATI-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/X-%23db0909?style=for-the-badge&labelColor=red%20)](#evocati-builds-und-tech-preview-channels) <br/>
 [![ko-fi](https://www.sc-deutsch-launcher.de/img/ko-fi/sag-danke.avif)](https://ko-fi.com/scdeutsch) [![Static Badge](https://img.shields.io/badge/%F0%9F%92%96-%23fff?style=for-the-badge&labelColor=232323&label=Star%20Citizen)](https://robertsspaceindustries.com/) [![Static Badge](https://img.shields.io/badge/35k-brightgreen?style=for-the-badge&logoColor=000&label=Downloads&labelColor=232323&color=fff)](https://hanadigital.github.io/grev/?user=rjcncpt&repo=StarCitizen-Deutsch-INI) [![Discord](https://img.shields.io/discord/1234564972198236261?style=for-the-badge&logo=discord&logoColor=fff&label=Discord&labelColor=232323&color=4cc71e)](https://discord.gg/5VZsTk3qjR)
 
 [![Star Citizen in Deutsch](https://i.imgur.com/WAP6UNa.png)](#)
@@ -162,25 +162,23 @@ Evocati Builds werden von uns nicht unterstützt. Wir planen, die neuen Zeilen d
 <details>
 <summary>[Klick] Fehler: Das Spiel ist noch komplett auf Englisch</summary>
 <br/>
-Es gab bereits öfters den Fall, dass das Spiel Englisch bleibt, obwohl die Übersetzung manuell oder automatisch über den Launcher eingestellt wurde. Meistens liegt dies an einem doppelten Star Citizen Ordner.
+Manchmal bleibt das Spiel auf Englisch, obwohl die Übersetzung manuell oder automatisch über den SC Deutsch Launcher eingestellt wurde. Häufig ist die Ursache hierfür ein doppelter StarCitizen-Ordner auf dem System.
 <br/><br/>
 
-1. Öffne deinen Star Citizen Ordner im Datei Explorer (Standard: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`).
-2. Wenn innerhalb des LIVE Ordners ein weiterer Star Citizen Ordner existiert, wird dies die aktuelle Installation sein
-3. (Um sich den Download zu sparen) Kopiere die Data.p4k von `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\StarCitizen\LIVE` zu `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`
-4. Beachte die folgende Warnung und lösche danach den doppelten Star Citizen Ordner.
+1. Öffne deinen StarCitizen-Ordner im Datei Explorer (Standard-Pfad: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`).
+2. Wenn innerhalb des LIVE Ordners ein weiterer StarCitizen-Ordner existiert, wird dies die aktuelle Installation sein
+3. Markiere alle Dateien im doppelten StarCitizen-Ordner `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\StarCitizen\LIVE` und schneide diese aus.
+4. Gehe zwei Ordner-Ebenen zurück `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE` und füge alle Dateien hier ein.
+5. Lösche anschließend den doppelten StarCitizen-Ordner.
 
-> **WARNUNG**<br/>
-> Nutzt du eine eigene `user.cfg` Datei mit eigenen Anpassungen, lösche deine Datei auf keinen Fall und kopiere sie in den richtigen Ordner<br/>
-> Vergiss auch nicht etwaige Charakter Dateien in den richtigen Ordner zu verschieben.
+### Spieldateien neu verifizieren
+6. Öffne den RSI-Launcher und drücke auf das Zahnrad neben dem Patch und wähle `Game Settings`
+7. Wähle unter `Game location` den Robert Space Industries Ordner (Standard: `C:\Program Files\Roberts Space Industries\`)
+8. Einmal `VERIFY GAME` klicken
+9. Starte den SC Deutsch Launcher, klicke auf LIVE und wähle den LIVE Ordner (sollte bereits automatisch erkannt werden)
+10. Klicke auf den `Update und Start` bzw. `Update Übersetzung` Button
 
-5. Öffne den Star Citizen Ordner und drücke auf das Zahnrad neben dem Patch und wähle `Game Settings`
-6. Wähle unter `Game location` den Robert Space Industries Ordner (Standard: `C:\Program Files\Roberts Space Industries\`)
-7. Einmal `VERIFY GAME`
-8. Starte den SC Deutsch Launcher, klicke auf LIVE und wähle den LIVE Ordner (sollte bereits automatisch erkannt werden)
-9. Klicke auf den `Update und Start` bzw. `Update` Button
-
-Das Spiel sollte nun auf Englisch sein.
+Das Spiel sollte nun auf Deutsch sein.
 
 ---
 
