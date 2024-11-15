@@ -1,3 +1,6 @@
+## Vorbereitung für einen möglichen EPTU Wave 1 Build
+Im Falle, dass CIG neben dem PTU auch einen EPTU Wave 1 Build veröffentlicht, wird hier künftig die passende Übersetzung bereitgestellt. Da dieser Vorgang voraussichtlich selten der Fall sein wird, beachte bitte die Buildnummern des PTU und EPTU Verzeichnis.
+
 ### Urheberrecht © rjcncpt. Alle Rechte vorbehalten.
 
 Diese deutsche Übersetzung der englischsprachigen global.ini-Datei wurde von rjcncpt[1] erstellt und ist lizenziert unter einer CC-BY-NC-SA (Creative Commons Namensnennung-Nicht kommerziell-Weitergabe unter gleichen Bedingungen 4.0 International)[2] Lizenz.
