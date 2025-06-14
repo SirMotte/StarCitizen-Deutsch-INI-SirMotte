@@ -13,201 +13,181 @@ Es ist ein lebendes Dokument, das bei Übereinkunft im Team jederzeit angepasst 
 
 # Übersetzung von Eigennamen und feststehenden Begriffen
 
-### Eigene Festlegungen
-
-
-| Wort  | Bezeichnung                  |
-| :------ | :----------------------------- |
-| `MGB` | `Medikamentengehalt im Blut` |
-
 ### Nicht übersetzen
-
-
-| Bezeichnung            | Notizen                                                           |
-| :----------------------- | :------------------------------------------------------------------ |
-| `Power Plant`          | Energiegenrator                                                   |
-| `Advocacy`             | Heimatschutzministerium                                           |
-| `Gadget/s`             |                                                                   |
-| `item_Name`            |                                                                   |
-| `item_SubType`         | Nur teilweise Übersetzung                                         |
-| `item_corp`            |                                                                   |
-| `item_Ship`            |                                                                   |
-| `vehicle_Name`         |                                                                   |
-| `vehicle_class`        | Vorerst                                                           |
-| `mission_item_`        | Wird u.a. in Missionstexte verwendet                              |
-| `mission_client`       | Sind Clients für Missionen                                       |
-| `mission_contractor`   | Sind Locations für Missionen                                     |
-| `Titel für Standorte` | z.B.`Stanton2b_` `Bacchus` `Pyro3_`. Meist über _desc angeordnet |
-| `Friendly Fire`        | Freundbeschuss / Eigenbeschuss                                    |
-| `Repeater`             | Repetierer                                                        |
-| `Cryptokey`            | Cryptoschlüssel                                                  |
-| `Strafe`               | Ich glaube es ist umgangssprachlicher als Gleiten                 |
+| Bezeichnung                          | Notizen                                                           |
+|:-------------------------------------|:------------------------------------------------------------------|
+| `Power Plant`                        |                                                                   |
+| `Advocacy`                           |                                                                   |
+| `item_Name`                          |                                                                   |
+| `item_SubType`                       | Nur teilweise Übersetzung                                         |
+| `item_corp`                          |                                                                   |
+| `item_Ship`                          |                                                                   |
+| `vehicle_Name`                       |                                                                   |
+| `vehicle_class`                      | Vorerst                                                           |
+| `mission_item_`                      | Wird u.a. in Missionstexte verwendet                              |
+| `mission_client`                     | Sind Clients für Missionen                                        |
+| `mission_contractor`                 | Sind Locations für Missionen                                      |
+| `Titel für Standorte`                | z.B. `Stanton2b_` `Bacchus` `Pyro3_`. Meist über _desc angeordnet |
+| `Repeater`                           |                                                                   |
+| `Cryptokey`                          |                                                                   |
+| `Strafe`                             | Ich glaube es ist umgangssprachlicher als Gleiten                 |
+| `Pitch`                              |                                                                   |
+| `Yaw`                                |                                                                   |
+| `Roll`                               |                                                                   |
 
 ### Grundsätzliches
-
-
-| Englisch          | Deutsch Variante 1             | Deutsch Variante 2      | Deutsch Variante 3 |
-| :------------------ | :------------------------------- | :------------------------ | :------------------- |
-| `Pitch`           | `Nickachse`                    | `Nicken`                |                    |
-| `Yaw`             | `Gierachse`                    | `Gieren`                |                    |
-| `Roll`            | `Rollachse`                    | `Rollen`                |                    |
-| `Inner Thought`   | `innerer Dialog`               |                         |                    |
-| `Imprint`         | `DNA-Profil`                   |                         |                    |
-| `Imprint storage` | `DNA-Profilarchiv`             | `DNA-Profil-Verwaltung` |                    |
-| `Credit`          | `Geld`                         | `Scheine`               | `Moneten/Kohle`    |
-| `Credits`         | `Geld`                         | `Scheine`               | `Moneten/Kohle`    |
-| `Cycle`           | `Wechseln`                     | `durchwechseln`         | `durchschalten`    |
-| `Vets`            | `Veterinär`                   | Mediziner               | Artz/Doktor        |
-| `Roger`           | `Verstanden`                   | Jawohl                  |                    |
-| `Roger that`      | `Verstanden`                   | Jawohl                  |                    |
-| `Copy`            | `Verstanden` (je nach Kontext) | Jawohl                  |                    |
-| `Copy that`       | `Verstanden`                   | Jawohl                  |                    |
+| Englisch                             | Deutsch Variante 1                             | Deutsch Variante 2                                                                | Deutsch Variante 3          |
+|:-------------------------------------|:-----------------------------------------------|:----------------------------------------------------------------------------------|:----------------------------|
+| `Inner Thought`                      | `innerer Dialog`                               |                                                                                   |                             |
+| `Imprint`                            | `DNA-Profil`                                   |                                                                                   |                             |
+| `Imprint storage`                    | `DNA-Profilarchiv`                             | `DNA-Profil-Verwaltung`                                                           |                             |
+| `BDL`                                | `BMS`                                          | `Blut-Medikamentenspiegel`                                                        |                             |
+| `Credit`                             | `Geld`                                         | `Scheine`                                                                         | `Moneten`                   |
+| `Credits`                            | `Geld`                                         | `Scheine`                                                                         | `Moneten`                   |
+| `Cycle`                              | `Wechseln`                                     | `durchwechseln`                                                                   | `durchschalten`             |
+| `Vets`                               | `Veteran`                                      |                                                                                   |                             |
+| `Roger`                              | `Verstanden`                                   |                                                                                   |                             |
+| `Roger that`                         | `Verstanden`                                   |                                                                                   |                             |
+| `Copy`                               | `Verstanden` (je nach Kontext)                 |                                                                                   |                             |
+| `Copy that`                          | `Verstanden`                                   |                                                                                   |                             |
 
 ### Angriff, Beschuss, Kampf
-
-
-| Englisch                        | Deutsch Variante 1                             | Deutsch Variante 2      | Deutsch Variante 3 |
-| :-------------------------------- | :----------------------------------------------- | :------------------------ | :------------------- |
-| `First Blood`                   | `Erster Kill`                                  | Erstes Blutvergießen   |                    |
-| `Blue-on-blue`                  | `Friendly Fire`                                | Eigenbeschuss           | Freundbeschuss     |
-| `Friendly down`                 | `Verbündeter am Boden`                        |                         |                    |
-| `We lost a friendly`            | `Verbündeten verloren`                        |                         |                    |
-| `Check your fire. Friendly.`    | `Feuer einstellen. Verbündeter!`              |                         |                    |
-| `Hold your fire`                | `Feuer einstellen`                             |                         |                    |
-| `Check fire`                    | `Feuer einstellen`                             |                         |                    |
-| `Cease fire. That's a friendly` | `Feuer einstellen! Das ist ein Verbündeter`   |                         |                    |
-| `Watch your fire`               | `Pass auf, wohin du schießt`                  |                         |                    |
-| `Watch your damn fire`          | `Pass auf verdammt, wohin du schießt`         |                         |                    |
-| `takin' fire`                   | `Werde beschossen`                             | Unter Beschuss          |                    |
-| `Taking heavy fire`             | `Unter schwerem Beschuss`                      |                         |                    |
-| `Full attack. Open fire`        | `Angriff. Feuer frei!`                         |                         |                    |
-| `Fire away`                     | `Feuer frei`                                   | `Feuererlaubnis`        |                    |
-| `Fire in the hole`              | `Achtung, Granate`                             | `Granate!`              |                    |
-| `Down! Grenade!`                | `Deckung! Granate!`                            |                         |                    |
-| `Look alive`                    | `Seid wachsam`                                 | `Seid aufmerksam`       |                    |
-| `Look sharp people`             | `Seid wachsam`                                 | `Seid aufmerksam`       |                    |
-| `Hostiles inbound`              | `Feindliche Einheiten im Anflug`               |                         |                    |
-| `Aggressor Squadrons`           | `Aggressorenschwadrone`                        | Aggressor Geschwader    |                    |
-| `Air Capability`                | `Luftüberlegenheit`                           |                         |                    |
-| `Decoy`                         | `Hitzetäuschkörper`                          |                         |                    |
-| `Noise`                         | `Radartäuschkörper`                          | `Scannertäuschkörper` |                    |
-| `Lag PIP`                       | `Lag PIP (Fadenkreuz-basierter Vorhaltepunkt)` |                         |                    |
-| `Lead PIP`                      | `Lead PIP (Ziel-basierter Vorhaltepunkt)`      |                         |                    |
+| Englisch                             | Deutsch Variante 1                             | Deutsch Variante 2                                                                | Deutsch Variante 3          |
+|:-------------------------------------|:-----------------------------------------------|:----------------------------------------------------------------------------------|:----------------------------|
+| `First Blood`                        | `Erster Kill`                                  |                                                                                   |                             |
+| `Blue-on-blue`                       | `Friendly Fire`                                |                                                                                   |                             |
+| `Friendly down`                      | `Verbündeter am Boden`                         |                                                                                   |                             |
+| `We lost a friendly`                 | `Verbündeten verloren`                         |                                                                                   |                             |
+| `Check your fire. Friendly.`         | `Feuer einstellen. Verbündeter!`               |                                                                                   |                             |
+| `Hold your fire`                     | `Feuer einstellen`                             |                                                                                   |                             |
+| `Check fire`                         | `Feuer einstellen`                             |                                                                                   |                             |
+| `Cease fire. That's a friendly`      | `Feuer einstellen! Das ist ein Verbündeter`    |                                                                                   |                             |
+| `Watch your fire`                    | `Pass auf, wohin du schießt`                   |                                                                                   |                             |
+| `Watch your damn fire`               | `Pass auf verdammt, wohin du schießt`          |                                                                                   |                             |
+| `takin' fire`                        | `Werde beschossen`                             |                                                                                   |                             |
+| `Taking heavy fire`                  | `Unter schwerem Beschuss`                      |                                                                                   |                             |
+| `Full attack. Open fire`             | `Voller Angriff. Feuer frei!`                  |                                                                                   |                             |
+| `Fire away`                          | `Feuer frei`                                   | `Feuererlaubnis`                                                                  |                             |
+| `Fire in the hole`                   | `Achtung, Granate`                             | `Granate!`                                                                        |                             |
+| `Down! Grenade!`                     | `Deckung! Granate!`                            |                                                                                   |                             |
+| `Look alive`                         | `Sei wachsam`                                  | `Sei aufmerksam`                                                                  |                             |
+| `Look sharp`                         | `Seid wachsam`                                 | `Seid aufmerksam`                                                                 |                             |
+| `Hostiles inbound`                   | `Feinde im Anflug`                             |                                                                                   |                             |
+| `Air Capability`                     | `Luftüberlegenheit`                            |                                                                                   |                             |
+| `Decoy`                              | `IR-Täuschkörper`                              |                                                                                   |                             |
+| `Noise`                              | `Radartäuschkörper`                            | `Scannertäuschkörper`                                                             |                             |
+| `Lag PIP`                            | `Lag PIP (Fadenkreuz-basierter Vorhaltepunkt)` |                                                                                   |                             |
+| `Lead PIP`                           | `Lead PIP (Ziel-basierter Vorhaltepunkt)`      |                                                                                   |                             |
 
 ### Schiff -und Komponenten
-
-
-| Englisch                    | Deutsch Variante 1              | Deutsch Variante 2                                                                 | Deutsch Variante 3        |
-| :---------------------------- | :-------------------------------- | :----------------------------------------------------------------------------------- | :-------------------------- |
-| `Quantum Drive`             | `Quantumantrieb`                |                                                                                    |                           |
-| `Quantum Travel`            | `Quantumreise`                  | `Quantumjump` (je nach Kontext)                                                    |                           |
-| `Avionics`                  | `Avionik`                       | `Avioniksystem`                                                                    | Flugverhalten             |
-| `Engine`                    | `Triebwerk`                     | Antrieb                                                                            |                           |
-| `Thruster`                  | `Schubdüse`                    | `Triebwerk`                                                                        |                           |
-| `Manouvering Thruster`      | `Manövrierdüse`               |                                                                                    |                           |
-| `Mav Thruster`              | `Manövrierdüse`               |                                                                                    |                           |
-| `Propulsion`                | `Antrieb`                       |                                                                                    |                           |
-| `Fuel`                      | `Kraftstoff`                    |                                                                                    |                           |
-| `Fuel Pod Summary`          | `Kraftstoffbehälter`           |                                                                                    |                           |
-| `Missile Attach Point`      | `Raketenaufsatzpunkt`           |                                                                                    |                           |
-| `Missile Rack`              | `Raketengestell`                |                                                                                    |                           |
-| `Turret`                    | `Geschützturm`                 | `Geschütz` (je nach Kontext)                                                      |                           |
-| `Remote Turret`             | `Ferngesteuerter Geschützturm` | `Ferngesteuerter Turm` (wenn nicht bewaffnet, z.B. für Scanning oder Traktorbeam) | Ferngesteuertes Geschütz |
-| `Power Triangle Assignment` | `Energie-Dreieck-Zuordnung`     |                                                                                    |                           |
-| `Sub-Item Slot`             | `Zusatzkomponenten-Slot`        |                                                                                    |                           |
+| Englisch                    | Deutsch Variante 1             | Deutsch Variante 2                                                                | Deutsch Variante 3       |
+|:----------------------------|:-------------------------------|:----------------------------------------------------------------------------------|:-------------------------|
+| `Quantum Drive`             | `Quantumantrieb`               |                                                                                   |                          |
+| `Quantum Travel`            | `Quantumreise`                 | `Quantumflug` (je nach Kontext)                                                   |                          |
+| `Avionics`                  | `Avionik`                      | `Avioniksystem`                                                                   |                          |
+| `Engine`                    | `Antrieb`                      |                                                                                   |                          |
+| `Propulsion`                | `Antrieb`                      |                                                                                   |                          |
+| `Thruster`                  | `Schubdüse`                    | `Triebwerk`                                                                       |                          |
+| `Maneuvering Thruster`      | `Manövrierdüse`                |                                                                                   |                          |
+| `Mav Thruster`              | `Manövrierdüse`                |                                                                                   |                          |
+| `Fuel`                      | `Kraftstoff`                   |                                                                                   |                          |
+| `Fuel Pod Summary`          | `Kraftstofftank Übersicht`     |                                                                                   |                          |
+| `Fuel Pod `                 | `Kraftstofftank`               |                                                                                   |                          |
+| `Missile Attach Point`      | `Raketenbefestigung`           |                                                                                   |                          |
+| `Missile Rack`              | `Raketengestell`               |                                                                                   |                          |
+| `Turret`                    | `Geschützturm`                 | `Geschütz` (je nach Kontext)                                                      |                          |
+| `Remote Turret`             | `Fernlenkgeschütz`             |                                                                                   |                          |
+| `Power Triangle Assignment` | `Energie-Zuteilung-Dreieck`    |                                                                                   |                          |
+| `Sub-Item Slot`             | `Zusatzkomponenten-Slot`       |                                                                                   |                          |
 
 ### FPS -und Komponenten
-
-
-| Englisch                | Deutsch Variante 1           | Deutsch Variante 2       | Deutsch Variante 3          |
-| :------------------------ | :----------------------------- | :------------------------- | :---------------------------- |
-| `Optics Attachment`     | `Zieloptik-Aufsätze`        |                          |                             |
-| `Sidearm`               | `Handfeuerwaffe`             |                          |                             |
-| `Spare Weapon Magazine` | `Ersatzmagazin`              |                          |                             |
-| `Stored Throwables`     | `Verstaute Wurfgegenstände` |                          |                             |
-| `Utility Item`          | `Gebrauchsgegenstand`        |                          |                             |
-| `Utility`               | `Hilfsmittel`                |                          |                             |
-| `Attachment`            | `Aufsatz`                    |                          |                             |
-| `Barrel`                | `Lauf` (je nach Kontext)     | `Fass` (je nach Kontext) | `Trommel` (je nach Kontext) |
-| `Consumable`            | `Verbrauchsgut`              | Nutzgegenstand           |                             |
-| `Item`                  | `Gegenstand`                 |                          |                             |
+| Englisch                             | Deutsch Variante 1                             | Deutsch Variante 2                                                                | Deutsch Variante 3          |
+|:-------------------------------------|:-----------------------------------------------|:----------------------------------------------------------------------------------|:----------------------------|
+| `Optics Attachment`                  | `Optikaufsatz`                                 |                                                                                   |                             |
+| `Sidearm`                            | `Handfeuerwaffe`                               |                                                                                   |                             |
+| `Secondary`                          | `Sekundärwaffe`                                |                                                                                   |                             |
+| `Primary`                            | `Primärwaffe`                                  |                                                                                   |                             |
+| `Stocked Weapon`                     | `Gelagerte Waffe`                              |                                                                                   |                             |
+| `Spare Weapon Magazine`              | `Ersatzmagazin`                                |                                                                                   |                             |
+| `Stored Throwables`                  | `Gelagerte Waffe`                              |                                                                                   |                             |
+| `Shouldered Weapon`                  | `Geschulterte Waffe`                           |                                                                                   |                             |
+| `Utility Weapon`                     | `Hilfswaffe`                                   |                                                                                   |                             |
+| `Utility Item`                       | `Nutzgegenstand`                               |                                                                                   |                             |
+| `Utility`                            | `Werkzeug`                                     |                                                                                   |                             |
+| `Attachment`                         | `Aufsatz`                                      |                                                                                   |                             |
+| `Barrel`                             | `Lauf` (je nach Kontext)                       | `Fass` (je nach Kontext)                                                          | `Trommel` (je nach Kontext) |
+| `Consumable`                         | `Verbrauchsartikel`                            |                                                                                   |                             |
+| `Item`                               | `Gegenstand`                                   |                                                                                   |                             |
 
 ### Warnung, Alarm, Kollision
-
-
-| Englisch                      | Deutsch Variante 1         | Deutsch Variante 2             | Deutsch Variante 3 |
-| :------------------------------ | :--------------------------- | :------------------------------- | :------------------- |
-| `Deck Proximity Alert`        | `Annäherungsalarm unten`  |                                |                    |
-| `Forward Proximity Alert`     | `Annäherungsalarm vorne`  |                                |                    |
-| `Overhead Proximity Alert`    | `Annäherungsalarm oben`   |                                |                    |
-| `Aft Proximity Alert`         | `Annäherungsalarm hinten` | `Annäherungsalarm achtern`    |                    |
-| `Starboard Proximity Alert`   | `Annäherungsalarm rechts` | `Annäherungsalarm steuerbord` |                    |
-| `Port Proximity Alert`        | `Annäherungsalarm links`  | `Annäherungsalarm backbord`   |                    |
-| `Collision Alert Front`       | `Kollisionsalarm vorne`    |                                |                    |
-| `Collision Alert High`        | `Kollisionsalarm oben`     |                                |                    |
-| `Collision Alert Low`         | `Kollisionsalarm unten`    |                                |                    |
-| `Collision Alert Port`        | `Kollisionsalarm links`    | `Kollisionsalarm backbord`     |                    |
-| `Collision Alert Rear`        | `Kollisionsalarm hinten`   | `Kollisionsalarm achtern`      |                    |
-| `Collision Alert Starboard`   | `Kollisionsalarm rechts`   | `Kollisionsalarm steuerbord`   |                    |
-| `Warning Collision Fore`      | `Achtung Kollision vorne`  |                                |                    |
-| `Warning Collision Nadir`     | `Achtung Kollision unten`  |                                |                    |
-| `Warning Collision Port`      | `Achtung Kollision links`  | `Achtung Kollision backbord`   |                    |
-| `Warning Collision Starboard` | `Achtung Kollision rechts` | `Achtung Kollision steuerbord` |                    |
-| `Warning Collision Stern`     | `Achtung Kollision hinten` | `Achtung Kollision achtern`    |                    |
-| `Warning Collision Zenith`    | `Achtung Kollision oben`   |                                |                    |
+| Englisch                             | Deutsch Variante 1                             | Deutsch Variante 2                                                                | Deutsch Variante 3          |
+|:-------------------------------------|:-----------------------------------------------|:----------------------------------------------------------------------------------|:----------------------------|
+| `Deck Proximity Alert`               | `Kollisionsalarm unten`                        |                                                                                   |                             |
+| `Forward Proximity Alert`            | `Kollisionsalarm vorne`                        |                                                                                   |                             |
+| `Overhead Proximity Alert`           | `Kollisionsalarm oben`                         |                                                                                   |                             |
+| `Aft Proximity Alert`                | `Kollisionsalarm hinten`                       |                                                                                   |                             |
+| `Starboard Proximity Alert`          | `Kollisionsalarm rechts`                       |                                                                                   |                             |
+| `Port Proximity Alert`               | `Kollisionsalarm links`                        |                                                                                   |                             |
+| `Collision Alert Front`              | `Kollisionsalarm vorne`                        |                                                                                   |                             |
+| `Collision Alert High`               | `Kollisionsalarm oben`                         |                                                                                   |                             |
+| `Collision Alert Low`                | `Kollisionsalarm unten`                        |                                                                                   |                             |
+| `Collision Alert Port`               | `Kollisionsalarm links`                        |                                                                                   |                             |
+| `Collision Alert Rear`               | `Kollisionsalarm hinten`                       |                                                                                   |                             |
+| `Collision Alert Starboard`          | `Kollisionsalarm rechts`                       |                                                                                   |                             |
+| `Warning Collision Fore`             | `Kollisionsalarm vorne`                        |                                                                                   |                             |
+| `Warning Collision Nadir`            | `Kollisionsalarm unten`                        |                                                                                   |                             |
+| `Warning Collision Port`             | `Kollisionsalarm links`                        |                                                                                   |                             |
+| `Warning Collision Starboard`        | `Kollisionsalarm rechts`                       |                                                                                   |                             |
+| `Warning Collision Stern`            | `Kollisionsalarm hinten`                       |                                                                                   |                             |
+| `Warning Collision Zenith`           | `Kollisionsalarm oben`                         |                                                                                   |                             |
 
 ### Schilde
+| Englisch                             | Deutsch Variante 1                             | Deutsch Variante 2                                                                | Deutsch Variante 3          |
+|:-------------------------------------|:-----------------------------------------------|:----------------------------------------------------------------------------------|:----------------------------|
+| `Port shield`                        | `linker Schild`                                | `Backbordschilde`                                                                 |                             |
+| `Rear Shield`                        | `hinterer Schild`                              | `Achterschilde`                                                                   |                             |
+| `Deck Shield`                        | `unterer Schild`                               |                                                                                   |                             |
+| `Head Shield`                        | `vorderer Schild`                              |                                                                                   |                             |
+| `Overhead shield`                    | `oberer Schild`                                |                                                                                   |                             |
+| `Starboard shield`                   | `rechter Schild`                               | `Steuerbordschilde`                                                               |                             |
+| `Shields Recharging`                 | `Schilde regenerieren`                         |                                                                                   |                             |
+| `Shields up`                         | `Schilde sind oben`                            |                                                                                   |                             |
 
-
-| Englisch             | Deutsch Variante 1    | Deutsch Variante 2  | Deutsch Variante 3 |
-| :--------------------- | :---------------------- | :-------------------- | :------------------- |
-| `Port shield`        | `linker Schild`       | `Backbordschilde`   |                    |
-| `Rear Shield`        | `hinterer Schild`     | `Achterschilde`     |                    |
-| `Deck Shield`        | `unterer Schild`      |                     |                    |
-| `Head Shield`        | `vorderer Schild`     |                     |                    |
-| `Overhead shield`    | `oberer Schild`       |                     |                    |
-| `Starboard shield`   | `rechter Schild`      | `Steuerbordschilde` |                    |
-| `Shields Recharging` | `Schilde regeneriert` | Schild lädt        |                    |
-| `Shields up`         | `Schilde sind aktiv`  | Schilde geladen     |                    |
-
-### Berufe, Tätigkeit
-
-
-| Englisch                           | Deutsch Variante 1                       | Anmerkung          |
-| :----------------------------------- | :----------------------------------------- | :------------------- |
-| `Catastrophic Charge Rate`         | `Laderate des kritschen Energiebereichs` | Tätigkeit: Mining |
-| `Optimal Charge Window Rate`       | `Laderate des optimalen Energiebereichs` | Tätigkeit: Mining |
-| `Catastrophic Charge Windows Size` | `Größe des kritischen Energiebereichs` | Tätigkeit: Mining |
-| `Optimal Charge Windows Size`      | `Größe des optimalen Energiebereichs`  | Tätigkeit: Mining |
+### Anlagen
+| Englisch                             | Deutsch Variante                               | Anmerkung                                                                         |
+|:-------------------------------------|:-----------------------------------------------|:----------------------------------------------------------------------------------|
+| `Distribution Center`                | `Vertriebszentrum`                             | Nur für experimentelle Übersetzung                                                |
+| `Processing Center`                  | `Verarbeitungszentrum`                         | Nur für experimentelle Übersetzung                                                |
+| `Processing Facility`                | `Verarbeitungsanlage`                          | Nur für experimentelle Übersetzung                                                |
+| `Workcenter`                         | `Betriebsstätte`                               | Nur für experimentelle Übersetzung                                                |
+| `Manufacturing Facility`             | `Produktionsstätte`                            | Nur für experimentelle Übersetzung                                                |
+| `Mining Facility`                    | `Bergbauanlage`                                | Nur für experimentelle Übersetzung                                                |
+| `Mining Area`                        | `Bergbaugebiet`                                | Nur für experimentelle Übersetzung                                                |
+| `Processing Plant`                   | `Verarbeitungsbetrieb`                         | Nur für experimentelle Übersetzung                                                |
+| `Research Outpost`                   | `Forschungs-Außenposten`                       | Nur für experimentelle Übersetzung                                                |
+| `Operations Depot`                   | `Betriebshof`                                  | Nur für experimentelle Übersetzung                                                |
 
 ### Sonstiges
-
-
-| Englisch                           | Deutsch Variante 1                                                        | Deutsch Variante 2  | Anmerkung                                                            |
-| :----------------------------------- | :-------------------------------------------------------------------------- | :-------------------- | :--------------------------------------------------------------------- |
-| `Surveillance Monitors`            | `Überwachungssensoren`                                                   | Überwachungssonden |                                                                      |
-| `Skimmers`                         | `Überwachungssatelliten`                                                 | `Datensammler`      | verkürzt bei HUD Texten                                             |
-| `Data Skimmers`                    | `Datensammler`                                                            |                     |                                                                      |
-| `Invalid Shop`                     | `Unzulässiger Laden`                                                     |                     |                                                                      |
-| `Light Goods`                      | `Leichte Fracht`                                                          |                     |                                                                      |
-| `Mainframe`                        | `Zentralrechner`                                                          |                     |                                                                      |
-| `Wreckdiving`                      | `Wrackerkundung`                                                          |                     |                                                                      |
-| `All Charge Rates`                 | `Alle Ladegeschwindigkeiten`                                              |                     |                                                                      |
-| `dismiss`                          | `verwerfen`                                                               | `entlassen`         |                                                                      |
-| `Deny`                             | `Ablehnen`                                                                |                     |                                                                      |
-| `Indentity Friend or Foe Inverter` | `Freund-Feind-Erkennungsinverter (Identity Friend or Foe Inverter, IFFI)` |                     |                                                                      |
-| `Condition:`                       | `Fehler`                                                                  |                     | Steht im DEFCON Bereich, jedoch im Multi-Tool ohne Aufsatz verwendet |
-| `DROP OFF LOCATIONS`               | `ABGABESTELLEN`                                                           |                     |                                                                      |
-| `Main Sequence star`               | `Zentralstern`                                                            |                     |                                                                      |
-| `Acceleration Limiter`             | `Beschl.begrenzer`                                                        |                     | Abkürzen weil sonst zu lang                                         |
-| `Velocity Limiter`                 | `Geschw.begrenzer`                                                        |                     | Abkürzen weil sonst zu lang                                         |
-| `Beacon`                           | `Notsignal`                                                               | `Notrufsignal`      |                                                                      |
-| `Spaceframe`                       | `Raumstruktur`                                                            |                     |                                                                      |
-| `Spinal mount`                     | `Spinalhalterung`                                                         |                     |                                                                      |
-
-### Offene Fragen
-
-
-| Englisch           | Deutsch Variante 1                          | Deutsch Variante 2 | Deutsch Variante 3 |
-| :------------------- | :-------------------------------------------- | :------------------- | :------------------- |
-| `imaging services` | ??? Wird als`Bildgebungsdienste` übersetzt |                    |                    |
+| Englisch                             | Deutsch Variante 1                                                        | Deutsch Variante 2 | Anmerkung                                                            |
+|:-------------------------------------|:--------------------------------------------------------------------------|:-------------------|:---------------------------------------------------------------------|
+| `Surveillance Monitors`              | `Überwachungssensoren`                                                    |                    |                                                                      |
+| `Skimmers`                           | `Überwachungssatelliten`                                                  |                    |                                                                      |
+| `Data Skimmers`                      | `Überwachungssatelliten`                                                  |                    |                                                                      |
+| `Invalid Shop`                       | `Ungültiger Shop`                                                         |                    |                                                                      |
+| `Light Goods`                        | `Leichte Waren`                                                           |                    |                                                                      |
+| `Mainframe`                          | `Hauptrechner`                                                            |                    |                                                                      |
+| `Wreckdiving`                        | `Wrackerkundung`                                                          |                    |                                                                      |
+| `All Charge Rates`                   | `Aufladebalken-Rate`                                                      |                    |                                                                      |
+| `dismiss`                            | `verwerfen`                                                               | `entlassen`        |                                                                      |
+| `Deny`                               | `Ablehnen`                                                                |                    |                                                                      |
+| `Indentity Friend or Foe Inverter`   | `Freund-Feind-Erkennungsinverter`                                         |                    | Identity Friend or Foe Inverter, IFFI                                |
+| `Condition:`                         | `Fehler`                                                                  |                    | Steht im DEFCON Bereich, jedoch im Multi-Tool ohne Aufsatz verwendet |
+| `DROP OFF LOCATIONS`                 | `ZUSTELLORTE`                                                             |                    |                                                                      |
+| `Main Sequence star`                 | `Hauptreihenstern`                                                        |                    |                                                                      |
+| `Acceleration Limiter`               | `Beschleunigungsbegrenzer`                                                | `Beschl.begrenzer` | Ggf. abkürzen                                                        |
+| `Velocity Limiter`                   | `Geschwindigkeitsbegrenzer`                                               | `Geschw.begrenzer` | Ggf. abkürzen                                                        |
+| `Speed Limiter`                      | `Geschwindigkeitsbegrenzer`                                               | `Geschw.begrenzer` | Ggf. abkürzen                                                        |
+| `Beacon`                             | `Notsignal`			                                                         | `Notrufsignal`     | 							                                                       |
+| `Spaceframe`                 		     | `Raumstruktur`                                                            |                    |                                                                      |
+| `Spinal mount`               		     | `Spinalbefestigung`                                                       |                    |                                                                      |
+| `imaging services`                   | `Radiologie`                                                              |                    |                                                                      |
