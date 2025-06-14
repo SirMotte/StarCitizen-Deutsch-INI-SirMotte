@@ -1,8 +1,7 @@
 # Scripts zum extrahieren der global.ini Dateien
-Dieses Script extrahiert die global.ini Dateien aus den entsprechenden SC Installationen. Die Aufgaben der scripts umfassen:
+Diese Scripts extrahieren die global.ini Dateien aus den entsprechenden SC Installationen. Die Aufgaben der scripts umfassen:
 
 ### Allgemeine Aufgaben
-- Auswahl der Umgebung
 - Die Buildnummer der ini Datei wird aus der `build_manifest.id` extrahiert.
 - UTF-8 Fehler werden korrigiert.
 - Offensichtlich fehlerhafte Präfixe werden korrigiert.
@@ -13,4 +12,4 @@ Dieses Script extrahiert die global.ini Dateien aus den entsprechenden SC Instal
 
 ### Zu beachten
 - Die Dateien im unp4k Verzeichnis ablegen
-- Die Pfade für `exe_path`, `argument_data, build_manifest_path` und ggf. für `output_file_path` anpassen.
+- Die Pfade für `argument_data`, `build_manifest_path` und ggf. für `output_file_path` anpassen.

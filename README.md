@@ -1,5 +1,5 @@
-[![Static Badge](https://img.shields.io/badge/LIVE%204.1.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/PTU%204.2.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/X-%23db0909?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/EVOCATI-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/X-%23db0909?style=for-the-badge&labelColor=red%20)](#evocati-builds-und-tech-preview-channels) <br/>
-[![Static Badge](https://img.shields.io/badge/Sag%20dem%20Team%20Danke-brightgreen?style=for-the-badge&logo=kofi&logoColor=fff&logoSize=auto&label=Ko-fi&labelColor=red&color=fff)](https://ko-fi.com/scdeutsch) [![Static Badge](https://img.shields.io/badge/%F0%9F%92%96-%23fff?style=for-the-badge&labelColor=232323&label=Star%20Citizen)](https://robertsspaceindustries.com/) [![Static Badge](https://img.shields.io/badge/44k-brightgreen?style=for-the-badge&logoColor=000&label=Downloads&labelColor=232323&color=fff)](https://hanadigital.github.io/grev/?user=rjcncpt&repo=StarCitizen-Deutsch-INI) [![Discord](https://img.shields.io/discord/1234564972198236261?style=for-the-badge&logo=discord&logoColor=fff&label=Discord&labelColor=232323&color=4cc71e)](https://discord.gg/5VZsTk3qjR)
+[![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/PTU%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/PREVIEW%204.0.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#) [![Static Badge](https://img.shields.io/badge/EVOCATI-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/X-%23db0909?style=for-the-badge&labelColor=red%20)](#evocati-builds-und-tech-preview-channels) <br/>
+[![Static Badge](https://img.shields.io/badge/Sag%20dem%20Team%20Danke-brightgreen?style=for-the-badge&logo=kofi&logoColor=fff&logoSize=auto&label=Ko-fi&labelColor=red&color=fff)](https://ko-fi.com/scdeutsch) [![Static Badge](https://img.shields.io/badge/%F0%9F%92%96-%23fff?style=for-the-badge&labelColor=232323&label=Star%20Citizen)](https://robertsspaceindustries.com/) [![Static Badge](https://img.shields.io/badge/40k-brightgreen?style=for-the-badge&logoColor=000&label=Downloads&labelColor=232323&color=fff)](https://hanadigital.github.io/grev/?user=rjcncpt&repo=StarCitizen-Deutsch-INI) [![Discord](https://img.shields.io/discord/1234564972198236261?style=for-the-badge&logo=discord&logoColor=fff&label=Discord&labelColor=232323&color=4cc71e)](https://discord.gg/5VZsTk3qjR)
 
 [![Star Citizen in Deutsch](https://i.imgur.com/WAP6UNa.png)](#)
 
@@ -20,6 +20,7 @@ Hilf mit, die Übersetzung zu verbessern! Trete **[unserem öffentlichen Überse
 - **[Tech-Preview Channels und Evocati Builds](#tech-preview-channels-und-evocati-builds)**
 - **[Das Team](#das-team) / [Danksagungen](#danksagungen)**
 - **[Fragen und Antworten](#fragen-und-antworten)**
+- **[Mehr von rjcncpt](#mehr-von-rjcncpt)**
   <br/><br/><br/>
 
 ## Über diese Übersetzung
@@ -50,9 +51,9 @@ Wir erhalten hin und wieder Nachrichten, wie man das Übersetzer-Team unterstüt
 # Anleitung zur Installation
 
 ### Variante 1: Automatisches Update der Übersetzung (SC Deutsch Launcher)
-Der **SC Deutsch Launcher** ist eine einfache und benutzerfreundliche Lösung zur Umstellung der Star Citizen Spieltexte von Englisch auf Deutsch. Unsere kostenlose App kümmert sich automatisch um alle Dateianpassungen, stellt sicher, dass immer die aktuellsten deutschen Sprachdateien für Star Citizen von unserem GitHub installiert werden und startet im Anschluss automatisch den RSI Launcher für dich.
+Der **SC Deutsch Launcher** ist eine einfache und benutzerfreundliche Lösung zur Umstellung der Spieltexte von Star Citizen auf Deutsch. Unsere kostenlose App kümmert sich automatisch um alle Dateianpassungen, stellt sicher, dass immer die aktuellsten deutschen Sprachdateien für Star Citizen von unserem GitHub installiert werden und startet im Anschluss automatisch den RSI Launcher für dich.
 
-[<img src="https://www.sc-deutsch-launcher.de/img/sc-deutsch-launcher-ui_v2.webp">](https://www.sc-deutsch-launcher.de/download/ "SC Deutsch Launcher Download")
+[<img src="https://github.com/user-attachments/assets/073a156d-241c-44b3-bb20-c28c91589ac2">](https://www.sc-deutsch-launcher.de/download/ "SC Deutsch Launcher Download")
 
 ### So funktioniert’s:
 1. Lade den SC Deutsch Launcher herunter.
@@ -60,15 +61,14 @@ Der **SC Deutsch Launcher** ist eine einfache und benutzerfreundliche Lösung zu
 2. Entpacke die ZIP-Datei.
 3. Kopiere das "SC Deutsch Launcher"-Verzeichnis an einen Ort deiner Wahl.
    - Zum Beispiel in das "Roberts Space Industries"-Verzeichnis
-5. Starte die SC Deutsch Launcher.exe
+5. Starte die SC Deutsch Launcher.exe.
    - Unser Launcher benötigt die NET.8 Runtime. Diese wird möglicherweise vorher von microsoft.com heruntergeladen.
-7. Der Launcher sucht automatisch nach deinem Star Citizen Verzeichnis.
-   - Gefundene Installationen werden grün dargestellt.
-   - Nicht gefundene Installationen bleiben schwarz.
+7. Der Launcher sucht automatisch nach deinem Star Citizen Ordner.
+   - Gefundene Ordner sind grün.
+   - Nicht gefundene Ordner bleiben schwarz.
 8. Klicke auf "Update Übersetzung".
 9. Der Launcher lädt die neuesten deutschen Sprachdateien herunter.
 10. Der RSI Launcher startet automatisch wenn in den Einstellungen aktiviert.
-11. Benötigst du Hilfe? Komm auf unseren [Discord-Server](https://discord.gg/5VZsTk3qjR).
 
 [![SC Deutsch Launcher Download Portable](https://www.sc-deutsch-launcher.de/img/herunterladen.png)](https://www.sc-deutsch-launcher.de/download/)
 <br/><br/><br/>
@@ -78,28 +78,28 @@ Der **SC Deutsch Launcher** ist eine einfache und benutzerfreundliche Lösung zu
 
 [<img src="https://i.imgur.com/rbsGtww.png" width="100%">](https://www.youtube.com/watch?v=_0H4Kc7s3Z4 "Installationsanleitung - Star Citizen in Deutsch")
 
-Wenn du unseren **SC Deutsch Launcher** nicht verwenden möchtest, kannst du unsere Star Citizen Übersetzung auch händisch installieren. Wichtig: Über ein Actions Script wird der Release alle 14 Tage und zum Beginn des neuen Monats automatisch erstellt.
+Wenn du unseren **SC Deutsch Launcher** nicht verwenden möchtest, kannst du unsere Star Citizen Übersetzung auch händisch installieren.
 
 1. **Lade die Neueste ZIP-Datei mit der Übersetzung herunter:** <br/>
    Manchmal musst du auf "Assets" klicken, um die Datei zu sehen.<br/><br/>
-    <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=live&expanded=true">![Static Badge](https://img.shields.io/badge/ÜBERSETZUNG%20FÜR-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/LIVE%20(ZIP)-brightgreen?style=for-the-badge&color=ffffff)</a><br/><a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=ptu&expanded=true">![Static Badge](https://img.shields.io/badge/ÜBERSETZUNG%20FÜR-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/PTU%20(ZIP)-brightgreen?style=for-the-badge&color=ffffff)</a> <!-- https://shields.io/badges/git-hub-release --> <br/><br/>
+    <a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=preview&expanded=true">![Static Badge](https://img.shields.io/badge/ÜBERSETZUNG%20FÜR-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/4.0%20PREVIEW%20(ZIP)-brightgreen?style=for-the-badge&color=ffffff)</a><br/><a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=live&expanded=true">![Static Badge](https://img.shields.io/badge/ÜBERSETZUNG%20FÜR-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/3.24%20LIVE%20(ZIP)-brightgreen?style=for-the-badge&color=ffffff)</a><br/><a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=ptu&expanded=true">![Static Badge](https://img.shields.io/badge/ÜBERSETZUNG%20FÜR-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/PTU%20(ZIP)-brightgreen?style=for-the-badge&color=ffffff)</a><br/><a href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI/releases?q=eptu&expanded=true">![Static Badge](https://img.shields.io/badge/ÜBERSETZUNG%20FÜR-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/EPTU%20(ZIP)-brightgreen?style=for-the-badge&color=ffffff)</a> <!-- https://shields.io/badges/git-hub-release --> <br/><br/>
 2. **Entpacke die ZIP-Datei auf deine Festplatte** <br/>
-3. **Kopiere den Inhalt (`data` Ordner und `user.cfg` Datei) aus der ZIP-Datei in den richtigen Ordner:**
-   - Für die **LIVE**-Version: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\`
+3. **Kopiere den Inhalt (`data` Ordner und `user.cfg` Datei) der ZIP-Datei in den richtigen Ordner:**
+   - Für die **3.24 LIVE**-Version: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\`
+   - Für die **4.0 PREVIEW**-Version: `C:\Program Files\Roberts Space Industries\StarCitizen\4.0_PREVIEW\`
    - Für die **PTU**-Version: `C:\Program Files\Roberts Space Industries\StarCitizen\PTU\`
+   - Für die **EPTU**-Version: `C:\Program Files\Roberts Space Industries\StarCitizen\EPTU\`
    
    Der Pfad kann bei dir ein anderer sein.
 
 ![image](https://i.imgur.com/MjBMF4y.png)
-
-4. Benötigst du Hilfe? Komm auf unseren [Discord-Server](https://discord.gg/5VZsTk3qjR).
 
 <br/><br/>
 
 ------------------------------------
 
 > [!IMPORTANT]  
-> **Die Übersetzungsdatei wird regelmäßig verbessert. Neue Star Citizen Patches fügen oft neue Texte hinzu. Lade die ZIP-Datei regelmäßig herunter, um Fehler zu vermeiden. Oder nutze unseren Launcher der die Aufgabe für dich erledigt.**
+> **Die Übersetzungsdatei wird regelmäßig verbessert. Neue Star Citizen Patches fügen oft neue Texte hinzu. Lade die ZIP-Datei also immer wieder neu herunter, um Fehler zu vermeiden. Oder nutze unseren Launcher der die Aufgabe für dich erledigt.**
 
 > [!WARNING]  
 > **Hast du eine eigene user.cfg Datei? Überschreibe sie nicht! Füge einfach diese zwei Zeilen hinzu:** <br/>
@@ -114,9 +114,9 @@ Wenn du unseren **SC Deutsch Launcher** nicht verwenden möchtest, kannst du uns
 
 ## Wie aktuell ist die deutsche Übersetzung?
 
-Die deutsche Übersetzung ist tagesaktuell. In der Regel veröffentlicht CIG die neuen Patches zwischen 23 und 3 Uhr nachts. Nachdem wir die neuen und geänderten Zeilen übertragen und übersetzt haben, laden wir die neue Übersetzung gegen 10 Uhr morgens auf GitHub. Jeden Freitag erstellen wir ein neues Release. Variablen und Keys in der global.ini Datei sind identisch mit der, die CIG zur Verfügung stellt. Sollten im Spiel Variablen mit einem @-Zeichen angezeigt werden, liegt der Fehler bei CIG und wird in späteren Patches korrigiert.
+Die deutsche Übersetzung ist tagesaktuell. In der Regel veröffentlicht CIG die neuen Patches zwischen 23 und 3 Uhr nachts. Nachdem wir die neuen und geänderten Zeilen übertragen und übersetzt haben, laden wir die neue Übersetzung gegen 10 Uhr morgens auf GitHub. Jeden Freitag erstellen wir ein neues Release. Unsere Übersetzungsdatei ist zu 100% identisch mit der, die CIG zur Verfügung stellt. Sollten im Spiel Variablen mit einem @-Zeichen angezeigt werden, liegt der Fehler bei CIG und wird in späteren Patches korrigiert.
 
-💡 **Es kommt häufig vor, dass eine neue Spielversion veröffentlicht wird aber kein Update auf Github hochgeladen wurde. In diesem Fall gab es keine Veränderungen an den Spieltexten und demzufolge kann sich die Versionsnummer hier auf Github mit der Spielversion unterscheiden.**
+💡 **Es kommt häufig vor, dass eine neue Spielversion veröffentlicht wird aber hier kein Update hochgeladen wurde. In diesem Fall gab es keine Veränderungen an der ursprünglichen global.ini Sprachdatei.**
 <br/><br/><br/><br/>
 
 ## Tech-Preview Channels und Evocati Builds
@@ -138,11 +138,11 @@ Evocati Builds werden von uns nicht unterstützt. Wir planen, die neuen Zeilen d
 
 | Team Name                                                                          | Position              | Aufgaben                               |
 |:-----------------------------------------------------------------------------------|:---------------------------|:----------------------------------|
-| [rjcncpt/PYRO](https://www.starcitizen-freefly.de/starcitizen-kostenlos-spielen-testen)  | `Projektleiter`            | Übersetzung, Entwicklung, GitHub  |
+| [rjcncpt/PYRO](https://fwkart.de/star-citizen-free-fly-kostenlos-testen-spielen/)  | `Projektleiter`            | Übersetzung, Entwicklung, GitHub  |
 | [MaxM1211](https://github.com/MaxM1211)                                            | `Entwicklung & Übersetzer` | Entwicklung, GitHub, Übersetzung  |
 | [greluc](https://github.com/greluc)                                                | `Entwicklung & Übersetzer` | Entwicklung, GitHub, Übersetzung  |
-| Boy7                                                                               | `Software Dev`             | Software Entwicklung              |
-| [Drakonhawk](https://github.com/Drakonhawk)                                        | `GitHub`                   | GitHub                            |
+| [Drakonhawk](https://github.com/Drakonhawk)                                        | `Entwicklung & GitHub`     | Entwicklung, GitHub               |
+| Boy7                                                                               | `Software Dev`             | Software                          |
 | Asaya87                                                                            | `Discord Management`       |                                   |
 | Fabi 18                                                                            | `Discord Management`       |                                   |
 
@@ -268,6 +268,18 @@ Diese Übersetzung ist komplett unabhängig und in erster Linie ein Community-Pr
 <br />
 
 Für weitere Hilfe trete gerne unserem [Discord Server](https://discord.gg/5VZsTk3qjR) bei, auf dem dir die Community oder das Team gerne helfen.
+
+<br/>
+
+------------------------------------
+
+<br/>
+
+## Mehr von rjcncpt
+
+| Dark Mode Extension für Spectrum | INI FILE VIEWER (Web app) |
+|:---------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+|[![Better Spectrum Dark Mode](https://i.imgur.com/C0PoJHG.png)](https://github.com/rjcncpt/SpectrumDarkMode-Extension)|[![INI FILE VIEWER](https://i.imgur.com/rSvr8H1.png)](https://github.com/rjcncpt/StarCitizen-Deutsch-INI/blob/main/docs_tools/apps/README.md#ini-file-viewer-web-app)|
 
 <br/>
 
